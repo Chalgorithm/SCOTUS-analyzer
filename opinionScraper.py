@@ -53,12 +53,7 @@ def case_classify(opinion_file):
                     results.append(result_options.index(word))
                 '''
         lastline = line     
-                
-
-        
-
             
-                
 
     output = results
     if(len(output) == 0):
