@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1RqLM2-3jOHqT8XVo5dji8hTvv20xqhRu
 """
 
-!pip install beautifulsoup4  
-!pip install pdfminer.six
+#!pip install beautifulsoup4  
+#!pip install pdfminer.six
 
 from http.client import responses
 from logging import exception
