@@ -43,8 +43,6 @@ def scrape_opinions():
                     except UnicodeError:
                         pass
                 
-                
-                
             
 if __name__ == "__main__":
     scrape_opinions()
