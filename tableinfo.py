@@ -1,15 +1,13 @@
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+import requests
+import time
 
+# Alex Wang, Christopher Haley (2021/12/20) Revision 1
 
-# https://stackoverflow.com/questions/47561116/scrape-webpage-containing-before
-# https://stackoverflow.com/questions/44704099/python-scrape-table-from-website <------
-# https://stackoverflow.com/questions/34250552/python-beautifulsoup-to-scrape-tables-from-a-webpage
-# https://stackoverflow.com/questions/41569480/scrape-tables-with-python
-
-for page in range(21,5,-1):
-        
+for page in range(21,2,-1): # goes back to 2004
+        time.sleep(0.3) # to prevent DDosing the site lmao
         r = requests.get("https://www.supremecourt.gov/opinions/slipopinion/"+str(page).zfill(2)) # zfill so if it is 5, it becomes 05, zfill of 2 makes sure length is 2.
         
         html = r.text
@@ -19,21 +17,22 @@ for page in range(21,5,-1):
         rows = table.find_all('tr')
         data = []
         
+
         for row in rows[0:]:
                 try:
                         columns = row.find_all('td') # td -> table data
-
                         elements = []
                         for element in columns:
-                                if(element.text.strip() == ""):
+                                if(element.text == ""):
                                         elements.append("None")
                                 else:                                        
-                                        elements.append(element.text.strip())
+                                        elements.append(element.text)
                         if(len(elements) == 7):
                                 data.append(elements)
                         else:
-                                print(elements)
-
+                                elements.insert(4, "None")
+                                data.append(elements)
+                              
                 except:
                         pass
            
