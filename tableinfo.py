@@ -1,10 +1,12 @@
 import pandas as pd
+import re
 import requests
 from bs4 import BeautifulSoup
 import requests
 import time
 
 # Alex Wang, Christopher Haley (2021/12/20) Revision 1
+data = []
 
 for page in range(21,2,-1): # goes back to 2004
         time.sleep(0.3) # to prevent DDosing the site lmao
@@ -15,16 +17,15 @@ for page in range(21,2,-1): # goes back to 2004
         soup = BeautifulSoup(html, features="lxml")
         table = soup.find('table', {"class": "table table-bordered"})
         rows = table.find_all('tr')
-        data = []
-        
+
 
         for row in rows[0:]:
                 try:
                         columns = row.find_all('td') # td -> table data
                         elements = []
                         for element in columns:
-                                if(element.text == ""):
-                                        elements.append("None")
+                                if(element.text == " "):
+                                        elements.insert(4, "None")
                                 else:                                        
                                         elements.append(element.text)
                         if(len(elements) == 7):
@@ -37,6 +38,7 @@ for page in range(21,2,-1): # goes back to 2004
                         pass
            
 
-        result = pd.DataFrame(data, columns=['R-','Date','Docket','Name','Revised','J.','Pt.'])
-      
-        print(result)
+result = pd.DataFrame(data, columns=['R-','Date','Docket','Name','Revised','J.','Pt.'])   
+result.drop(result[result.Name == ' '].index, inplace = True)
+result.to_csv('table.csv', index=False, encoding='utf-8')
+
