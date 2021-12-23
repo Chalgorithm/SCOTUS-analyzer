@@ -15,27 +15,31 @@ for page in range(21,2,-1): # goes back to 2004
         html = r.text
 
         soup = BeautifulSoup(html, features="lxml")
-        table = soup.find('table', {"class": "table table-bordered"})
+        div = soup.find('div', {"class": "panel panel-default"})
+        table = div.find('table', {"class": "table table-bordered"})
         rows = table.find_all('tr')
 
+        divS = div.find_all('div', {"class": "panel panel-default"})
 
-        for row in rows[0:]:
-                try:
-                        columns = row.find_all('td') # td -> table data
-                        elements = []
-                        for element in columns:
-                                if(element.text == " "):
+
+        for div in divS[0:]:
+                for row in rows[0:]:
+                        try: 
+                                columns = row.find_all('td') # td -> table data
+                                elements = []
+                                for element in columns:
+                                        if(element.text == " "):
+                                                elements.insert(4, "None")
+                                        else:                                        
+                                                elements.append(element.text)
+                                if(len(elements) == 7):
+                                        data.append(elements)
+                                else:
                                         elements.insert(4, "None")
-                                else:                                        
-                                        elements.append(element.text)
-                        if(len(elements) == 7):
-                                data.append(elements)
-                        else:
-                                elements.insert(4, "None")
-                                data.append(elements)
+                                        data.append(elements)
                               
-                except:
-                        pass
+                        except:
+                                pass
            
 
 result = pd.DataFrame(data, columns=['R-','Date','Docket','Name','Revised','J.','Pt.'])   
