@@ -6,6 +6,7 @@ import requests
 import time
 
 # Alex Wang, Christopher Haley (2021/12/20) Revision 1
+# Alex Wang, Revision 2 (2021/12/23)
 data = []
 
 for page in range(21,2,-1): # goes back to 2004
