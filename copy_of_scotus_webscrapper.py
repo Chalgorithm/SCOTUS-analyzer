@@ -38,8 +38,9 @@ def process_document(title,response):
       counter = 0
       file = open(str(counter)+".pdf", 'wb').write(response.content)
       result_entry = title +","+ str(extract_result(str(counter)+".pdf"))
-    except:
+    except Exception as e:
       result_entry = title +","+"[4]"
+      print(e)
     print(result_entry)
     #scotus_writer.writerow(list(result_entry))
     #lock.release()
@@ -87,7 +88,12 @@ def extract_result(path):
         for word in result_options:
             matches = re.search(word,str(current_line)) is not None
             if(prefixmatches and matches and suffixmatches):
-                results.append(result_options.index(word))
+                partial = re.search("(partially(.*))+ "+word+"|"+word+"(.*)(in part)+",str(current_line)) is not None
+                if(partial):
+                    results.append(result_options.index(word)+5)
+                else:
+                    results.append(result_options.index(word))
+            
             
         i += 1
     
@@ -101,17 +107,11 @@ def extract_result(path):
 def scrape_opinions():
     open("results.txt","w").close()
     # sample headers from the internet
-    headers = {
-    'Access-Control-Allow-Origin': '*',
-    'Access-Control-Allow-Methods': 'GET',
-    'Access-Control-Allow-Headers': 'Content-Type',
-    'Access-Control-Max-Age': '3600',
-    'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'
-    }
+    
     
     with ThreadPoolExecutor(max_workers=6) as e:
 
-        for page in range(21,19,-1):
+        for page in range(21,2,-1):
             response = requests.get("https://www.supremecourt.gov/opinions/slipopinion/"+str(page).zfill(2)) # zfill so if it is 5, it becomes 05, zfill of 2 makes sure length is 2.
             
             soup = BeautifulSoup(response.content,"html.parser")
@@ -143,8 +143,7 @@ def Convert(string):
     return li
 
 if __name__ == "__main__":
-  with open('scotus_headers.csv', mode='w') as scotus_csv:
-      scotus_writer = csv.writer(scotus_csv, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+ 
   scrape_opinions()
 
 #from google.colab import drive

@@ -40,6 +40,7 @@ for page in range(21,2,-1): # goes back to 2004
                                 data.append(elements)
 
 result = pd.DataFrame(data, columns=['R-','Date','Docket','Name','Revised','J.','Pt.'])   
+
 result.dropna(subset = ["Name"], inplace=True)
 result.to_csv('table.csv', index=False, encoding='utf-8')
 
