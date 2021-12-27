@@ -2,18 +2,48 @@ from pdfminer.high_level import extract_pages
 from pdfminer.layout import LTTextContainer, LTChar,LTLine,LAParams
 import os
 import re
+import requests
+import time
 
-
-def process_document(title,response):
+def process_link(hyperlink):
+    time.sleep(0.3)
     
+    link = "https://www.supremecourt.gov"+str(hyperlink)
+    response = requests.get(link)
+    
+    return process_document(response)
+
+def process_document(response):
     counter = 0
     file = open(str(counter)+".pdf", 'wb').write(response.content)
-    print(title + str(extract_result(str(counter)+".pdf")))
+    resultlist = extract_result(str(counter)+".pdf")
+    outputlist = ["no" for i in range(0,10)]
+    for result in resultlist:
+        outputlist[result] = "yes"
+    return outputlist
+
+'''
+def process_document(title,response):
+    #lock.acquire()
+    try:
+      counter = 0
+      file = open(str(counter)+".pdf", 'wb').write(response.content)
+      result_entry = title +","+ str(extract_result(str(counter)+".pdf"))
+    except Exception as e:
+      result_entry = title +","+"[4]"
+      print(e)
+    print(result_entry)
+    #scotus_writer.writerow(list(result_entry))
+    #lock.release()
+    output = open("results.txt", "a")  # append mode
+    output.write(result_entry+"\n")
+    output.close()
     
     #uncomment the line above to store all files
-
-
+'''
 def extract_result(path):
+    
+    
     result_options = [r"affirmed",r"remanded",r"vacate",r"reversed"]
     
     prefix = r"[0-9]+ F. [0-9]{0,1}d [0-9]+,(.*)"
@@ -21,6 +51,7 @@ def extract_result(path):
     suffix = r"^(.*)\.(.*)$"
     end_of_syllabus = r"Opinion(.*)\."
 
+    case = ""
     results = []
     # algorithm looks for verdict
     #pattern matching by docket number:
@@ -48,10 +79,16 @@ def extract_result(path):
         for word in result_options:
             matches = re.search(word,str(current_line)) is not None
             if(prefixmatches and matches and suffixmatches):
-                results.append(result_options.index(word))
+                partial = re.search("(partially(.*))+ "+word+"|"+word+"(.*)(in part)+",str(current_line)) is not None
+                if(partial):
+                    results.append(result_options.index(word)+5)
+                else:
+                    results.append(result_options.index(word))
+            
             
         i += 1
     
-    return results
+    if(len(results) == 0): results = [4]
+    return list(set(results))
     
 #print(extract_result(path))
