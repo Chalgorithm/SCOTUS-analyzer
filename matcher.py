@@ -20,7 +20,7 @@ def match(LIWCfile,opinionfile):
 
 def extract_title(celltext):
     clean_title = re.sub(r"-"," ", re.sub(r"\.[A-Za-z]{2,3}$","",celltext))
-    return clean_title
+    return clean_title 
 
 if __name__ == "__main__":
     match("data/liwcbriefs.csv","data/table.csv")
