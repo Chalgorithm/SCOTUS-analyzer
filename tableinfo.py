@@ -61,9 +61,9 @@ for page in range(21,19,-1): # goes back to 2004
                                 elements.append(resitem)
                         data.append(elements)
                                 
+if __name__ == "__main__":
+        result = pd.DataFrame(data, columns=['R-','Date','Docket','Name','Revised','J.','Pt.','hyperlink',"affirmed","remanded","vacate","reversed","none detected","affirmed in part","remanded in part","vacated in part","reversed in part"])   
 
-result = pd.DataFrame(data, columns=['R-','Date','Docket','Name','Revised','J.','Pt.','hyperlink',"affirmed","remanded","vacate","reversed","none detected","affirmed in part","remanded in part","vacated in part","reversed in part"])   
-
-result.dropna(subset = ["Name"], inplace=True)
-result.to_csv('table.csv', index=False, encoding='utf-8')
+        result.dropna(subset = ["Name"], inplace=True)
+        result.to_csv('table.csv', index=False, encoding='utf-8')
 
