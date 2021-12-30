@@ -9,14 +9,17 @@ def scrape_search():
     for index, row in opinion_table.iterrows():
         try:
             docket_number = row["Docket"]
-            result = scrape_old_format(docket_number)
-            print(result)
+            # result = scrape_old_format(docket_number)
+            # print(result)
+            newresult = scrape_new_format("19-897")
+            print(newresult)
         except Exception as e:
             try:
                 print(row["Docket"])
             except:
                 print("can't get docket#")
             print(e)
+
     #docket_number = "02-6683"
     #new_docket_number = "21-463"
     #scrape_new_format(new_docket_number)
@@ -26,17 +29,16 @@ def scrape_search():
 
 def scrape_new_format(docket_number):
     #get document
-    result_options = [r"AFFIRMED",r"REMANDED",r"VACATED",r"REVERSED"]
     time.sleep(0.3)
     r = requests.get("https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/" + str(docket_number) + ".html")
     html = r.text
     soup = BeautifulSoup(html, features="lxml")
-    proceedings = soup.find("table", id="proceedings")
-    print(proceedings)
-    for tablerow in proceedings.find_all("borderbttm"):   
-        for data in tablerow:
-            print(data.find('a', href=True, text="Petition", class_="documentanchor"))
-            
+    proceedings_body = soup.find("table", id="proceedings")
+    proceedings = proceedings_body.find('a', href=True, text="Petition", class_="documentanchor")
+    link = proceedings['href']
+    content = proceedings_body.text.strip()
+    return result_scan(content)
+    # return result_scan(content)
    
 
 
