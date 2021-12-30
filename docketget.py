@@ -1,6 +1,7 @@
 import os
 import re
 import pdfplumber as plumber
+import json
 
 
 global troublemakers
@@ -47,5 +48,7 @@ if __name__ == "__main__":
     #print(str(files[0])+":"+str(scan_for_docket_number(files[0])))
     #print(mapping)
     print("could not read the following "+str(len(troublemakers))+" files:")
-    for index,troublemaker in enumerate(troublemakers):
-        print(str(index)+" -> "+troublemaker)
+    with open("data/filename-to-docket.json", "w") as outfile:
+        json.dump(mapping, outfile)
+        for index,troublemaker in enumerate(troublemakers):
+            print(str(index)+" -> "+troublemaker)
