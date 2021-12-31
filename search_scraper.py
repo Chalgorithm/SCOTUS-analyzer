@@ -69,8 +69,8 @@ def scrape_old_format(docket_number):
     proceedings_body = soup.find("tbody")
     for row in proceedings_body.find_all("tr"):
         print(row)
-        #proceedings = row.find_all("td")
-        #content = proceedings[1].strip()
+        proceedings = row.find_all("td")
+        content = proceedings[1].strip()
         return result_scan(content)
         
 def result_scan(content):
