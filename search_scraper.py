@@ -6,27 +6,28 @@ import re
 import json
 
 def scrape_search():
-    output_file = open("data/search_scrapings.json","a")
-    opinion_table = pd.read_csv("data/table.csv")
-    for index, row in opinion_table.iterrows():
-        result = "None"
-        docket_number = row["Docket"]
-        try:
-
-            
-            # result = scrape_old_format(docket_number)
-            # print(result)
-            result = scrape_new_format(docket_number)
-            print({docket_number:result})
-        except Exception as e:
+    with open("data/search_scrapings.txt","a") as output_file:
+        opinion_table = pd.read_csv("data/table.csv")
+        for index, row in opinion_table.iterrows():
+            result = "None"
+            docket_number = row["Docket"]
             try:
-                docket_number = row["Docket"]
+
+                
+                # result = scrape_old_format(docket_number)
+                # print(result)
                 result = scrape_new_format(docket_number)
                 print({docket_number:result})
-            except:
-                print("can't get docket#")
-            print(e)
-        output_file.write(str({docket_number:result})+",")
+                output_file.write(docket_number +"->" +str(result)+"\n")
+            except Exception as e:
+                try:
+                    
+                    result = scrape_new_format(docket_number)
+                    print({docket_number:result})
+                    output_file.write(docket_number +"->" +"\n")
+                except:
+                    print("can't get docket#")
+                print(e)
        
             
 
@@ -44,14 +45,18 @@ def scrape_new_format(docket_number):
     html = r.text
     soup = BeautifulSoup(html, features="lxml")
     proceedings_body = soup.find("table", id="proceedings")
+    '''
     petition = proceedings_body.find('a', href=True, text="Petition", class_="documentanchor")
     opinion = proceedings_body.find('a', href=True, text="opinion")
     petitionlink = petition['href']
     opinionlink = opinion['href']
+    
     for row in proceedings_body.find_all("tr"):
         proceedings = row.find_all("td")
-        content = proceedings[1].text
-        return result_scan(content)
+        content = proceedings[1].text.strip()
+    '''
+    content = proceedings_body.text.strip()
+    return result_scan(content)
    
 
 
@@ -63,7 +68,7 @@ def scrape_old_format(docket_number):
     proceedings_body = soup.find("tbody")
     for row in proceedings_body.find_all("tr"):
         proceedings = row.find_all("td")
-        content = proceedings[1].text
+        content = proceedings[1].text.strip()
         return result_scan(content)
         
 def result_scan(content):

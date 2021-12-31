@@ -1,0 +1,73 @@
+21-463->{'be': 0, 'PART,': 3, 'case': 1}
+20-1668->{'Judgment': 3}
+20-1539->{'immunity': 3}
+21A23->{}
+20-1084->{'Judgment': 3, 'case': 1}
+19-1257->{'2021Judgment': 3, 'case': 1}
+19-251->{'2021Judgment': 3, 'case': 1}
+20-440->{'2021Judgment': 2, 'case': 1}
+19-897->{'2021Judgment': 3}
+19-1039->{'2021Judgment': 3, 'case': 1}
+20-1212->{'Judgment': 2, 'case': 1}
+20-391->{}
+20-297->{'2021Judgment': 3, 'case': 1}
+20-472->{'2021Judgment': 3}
+20-543->{'2021Judgment': 3, 'case': 1}
+20-18->{'2021Judgment': 2, 'case': 1}
+19-422->{'be': 0, 'PART,': 2, 'case': 1}
+20-255->{'be': 0}
+20-107->{'2021Judgment': 3, 'case': 1}
+20-222->{'2021Judgment': 2, 'case': 1}
+20-512->{'be': 0}
+19-1434->{'2021Judgment': 2, 'case': 1}
+19-840->{'2021Judgment': 3, 'case': 1}
+19-416->{'2021Judgment': 3, 'case': 1}
+19-123->{'2021Judgment': 3, 'case': 1}
+19-8709->{'be': 0}
+20-5904->{'be': 0}
+19-5410->{'2021Judgment': 3, 'case': 1}
+20-315->{'be': 0}
+19-783->{'2021Judgment': 3, 'case': 1}
+19-1155->{'2021Judgment': 2, 'case': 1}
+19-1414->{'2021Judgment': 2, 'case': 1}
+20-334->{'be': 0}
+20-437->{'2021Judgment': 3, 'case': 1}
+20-382->{'2021Judgment': 3, 'case': 1}
+19-5807->{'be': 0}
+19-1189->{'2021Judgment': 2, 'case': 1}
+19-930->{'2021Judgment': 3, 'case': 1}
+20-157->{'2021Judgment': 2, 'case': 1}
+19-863->{'2021Judgment': 3}
+20-940->{'Judgment': 2, 'case': 1}
+18-1259->{'be': 0}
+19-1442->{'2021Judgment': 3, 'case': 1}
+19-508->{'2021Judgment': 3, 'case': 1}
+20A151->{}
+18-956->{'2021Judgment': 3, 'case': 1}
+19-1231->{'2021Judgment': 3}
+19-511->{'2021Judgment': 3, 'case': 1}
+20-507->{'judgment': 3}
+19-368->{'be': 0}
+19-292->{'2021Judgment': 2, 'case': 1}
+19-968->{'2021Judgment': 3, 'and': 1}
+19-547->{'2021Judgment': 3, 'case': 1}
+19-438->{'be': 0}
+19-546->{'2021Judgment': 3}
+18-1447->{'2021Judgment': 2, 'case': 1}
+19-199->{'2021Judgment': 3, 'case': 1}
+19-351->{'2021Judgment': 2, 'case': 1}
+19-963->{'certiorari': 4}
+19-357->{'2021Judgment': 2, 'case': 1}
+20-366->{'2020Judgment': 2, 'case': 1}
+19-1302->{'Judgment': 2, 'case': 1}
+18-540->{'2020Judgment': 3, 'case': 1}
+19-108->{'2020Judgment': 3, 'case': 1}
+19-309->{'2020Judgment': 2, 'case': 1}
+19-71->{'be': 0}
+20A87->{}
+19-1261->{'Judgment': 2, 'case': 1}
+19-1108->{'Judgment': 2, 'case': 1}
+20A8->{}
+17-1107->{'be': 0}
+18-9526->{'2020Judgment': 3}
+19-715->{'2020Judgment': 2, 'case': 1}
