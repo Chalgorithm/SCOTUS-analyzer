@@ -12,6 +12,7 @@ def scrape_search():
         result = "None"
         docket_number = row["Docket"]
         try:
+
             
             # result = scrape_old_format(docket_number)
             # print(result)
@@ -30,7 +31,7 @@ def scrape_search():
             
 
     #docket_number = "02-6683"
-    #new_docket_number = "21-463"
+    #new_docket_number = "19-897"
     #scrape_new_format(new_docket_number)
     
     #scrape_old_format(docket_number)
@@ -43,11 +44,14 @@ def scrape_new_format(docket_number):
     html = r.text
     soup = BeautifulSoup(html, features="lxml")
     proceedings_body = soup.find("table", id="proceedings")
-    proceedings = proceedings_body.find('a', href=True, text="Petition", class_="documentanchor")
-    link = proceedings['href']
-    content = proceedings_body.text.strip()
-    return result_scan(content)
-    # return result_scan(content)
+    petition = proceedings_body.find('a', href=True, text="Petition", class_="documentanchor")
+    opinion = proceedings_body.find('a', href=True, text="opinion")
+    petitionlink = petition['href']
+    opinionlink = opinion['href']
+    for row in proceedings_body.find_all("tr"):
+        proceedings = row.find_all("td")
+        content = proceedings[1].text
+        return result_scan(content)
    
 
 
@@ -74,13 +78,12 @@ def result_scan(content):
             if matches:
                 output_results[last_token] = r_i
         last_token = token
+
     return output_results
    
 
         
         
-            
-            
     
 
 
