@@ -12,6 +12,7 @@ def scrape_search():
             result = "None"
             docket_number = row["Docket"]
             try:
+
                 
                 # result = scrape_old_format(docket_number)
                 # print(result)
@@ -21,9 +22,9 @@ def scrape_search():
             except Exception as e:
                 try:
                     
-                    result = scrape_new_format(docket_number)
+                    result = scrape_old_format(docket_number)
                     print({docket_number:result})
-                    output_file.write(docket_number +"->" +"\n")
+                    output_file.write(docket_number +"->"+str(result)+"\n")
                 except:
                     print("can't get docket#")
                 print(e)
@@ -62,16 +63,18 @@ def scrape_new_format(docket_number):
 def scrape_old_format(docket_number):
     time.sleep(0.3)
     r = requests.get("https://www.supremecourt.gov/search.aspx?filename=/docketfiles/"+str(docket_number)+".htm")
+    print(r)
     html = r.text
     soup = BeautifulSoup(html, features="lxml")
     proceedings_body = soup.find("tbody")
     for row in proceedings_body.find_all("tr"):
-        proceedings = row.find_all("td")
-        content = proceedings[1].text.strip()
+        print(row)
+        #proceedings = row.find_all("td")
+        #content = proceedings[1].strip()
         return result_scan(content)
         
 def result_scan(content):
-    result_options = [r"AFFIRMED",r"REMANDED",r"VACATED",r"REVERSED",r"DISMISSED"]
+    result_options = [r"AFFIRM",r"REMAND",r"VACATE",r"REVERSE",r"DISMISS"]
     output_results = {}
     last_token = ""
     for token in content.split(" "):
@@ -92,4 +95,4 @@ def result_scan(content):
 
 
 if __name__ == "__main__":
-    scrape_search()
+    print(scrape_old_format("14-212"))
