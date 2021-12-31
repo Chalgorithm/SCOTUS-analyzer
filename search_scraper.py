@@ -3,22 +3,31 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import re
+import json
 
 def scrape_search():
+    output_file = open("data/search_scrapings.json","a")
     opinion_table = pd.read_csv("data/table.csv")
     for index, row in opinion_table.iterrows():
+        result = "None"
+        docket_number = row["Docket"]
         try:
-            docket_number = row["Docket"]
+            
             # result = scrape_old_format(docket_number)
             # print(result)
-            newresult = scrape_new_format("19-897")
-            print(newresult)
+            result = scrape_new_format(docket_number)
+            print({docket_number:result})
         except Exception as e:
             try:
-                print(row["Docket"])
+                docket_number = row["Docket"]
+                result = scrape_new_format(docket_number)
+                print({docket_number:result})
             except:
                 print("can't get docket#")
             print(e)
+        output_file.write(str({docket_number:result})+",")
+       
+            
 
     #docket_number = "02-6683"
     #new_docket_number = "21-463"
@@ -65,8 +74,9 @@ def result_scan(content):
             if matches:
                 output_results[last_token] = r_i
         last_token = token
-                
-       
+    return output_results
+   
+
         
         
             

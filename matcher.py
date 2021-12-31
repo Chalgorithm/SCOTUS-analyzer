@@ -2,6 +2,7 @@
 import pandas as pd
 import re
 import json
+from search_scraper import scrape_new_format,scrape_old_format
 
 mapping = json.load(open("data/filename-to-docket.json"))
 
