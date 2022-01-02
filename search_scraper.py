@@ -29,7 +29,6 @@ def scrape_search():
                     output_file.write(str(docket_number)+"->"+str(scrape_any(link))+"\n")
                     output_file.close()
             except Exception as e:
-<<<<<<< HEAD
                 try:
                     with open("data/search_scrapings3.txt","a") as output_file:
                         link = "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/"+str(docket_number)+".htm"
@@ -59,9 +58,6 @@ def scrape_search():
                     print("can't get docket#")
                 print(e)
             """
-=======
-                print(e)
->>>>>>> ab3f074b44006b25baa29a8c4586c8fa89c92a2c
             
 
     #docket_number = "02-6683"
@@ -70,7 +66,6 @@ def scrape_search():
     
     #scrape_old_format(docket_number)
     
-<<<<<<< HEAD
 
 def scrape_new_format(docket_number):
     #get document
@@ -93,9 +88,6 @@ def scrape_new_format(docket_number):
     return result_scan(content)
 
 def scrape_any(link):
-=======
-def scrape_any(docket_number):
->>>>>>> ab3f074b44006b25baa29a8c4586c8fa89c92a2c
     time.sleep(0.3)
     r = requests.get(link)
     print(r)
