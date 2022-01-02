@@ -39,9 +39,8 @@ def scrape_search():
                     pass
         except Exception as e:
             print(e)
-            """
-            try:
 
+<<<<<<< HEAD
                 
                 # result = scrape_old_format(docket_number)
                 # print(result)
@@ -88,6 +87,10 @@ def scrape_new_format(docket_number):
     return result_scan(content)
 
 def scrape_any(link):
+=======
+def scrape_any(docket_number):
+
+>>>>>>> a6224ed6b2988bad7b86264fbc1e6cbb356d937d
     time.sleep(0.3)
     r = requests.get(link)
     print(r)
