@@ -9,11 +9,12 @@ brief_mapping = json.load(open("data/filename-to-docket.json"))
 result_mapping = {}
 
 # these next 4 lines fill out result mapping with the current up-to-date data
-for line in open("data/search_scrapings.txt","r").read().split("\n"):
+for line in open("data/search_scrapings3.txt","r").read().split("\n"):
     split_line = line.split("->")
     #layout docket# -> result info
     if len(split_line) > 1:
         #without eval it is a string
+
         result_mapping[split_line[0]] = str(split_line[1])
 
 def docket_match(LIWCdata,brief_reference,result_reference,tableinfodata):

@@ -1,516 +1,1367 @@
-21-463->{'be': 0, 'PART,': 3, 'case': 1}
-20-1668->{'Judgment': 3}
-20-1539->{'immunity': 3}
-21A23->{}
-20-1084->{'Judgment': 3, 'case': 1}
-19-1257->{'2021Judgment': 3, 'case': 1}
-19-251->{'2021Judgment': 3, 'case': 1}
-20-440->{'2021Judgment': 2, 'case': 1}
-19-897->{'2021Judgment': 3}
-19-1039->{'2021Judgment': 3, 'case': 1}
-20-1212->{'Judgment': 2, 'case': 1}
-20-391->{}
-20-297->{'2021Judgment': 3, 'case': 1}
-20-472->{'2021Judgment': 3}
-20-543->{'2021Judgment': 3, 'case': 1}
-20-18->{'2021Judgment': 2, 'case': 1}
-19-422->{'be': 0, 'PART,': 2, 'case': 1}
-20-255->{'be': 0}
-20-107->{'2021Judgment': 3, 'case': 1}
-20-222->{'2021Judgment': 2, 'case': 1}
-20-512->{'be': 0}
-19-1434->{'2021Judgment': 2, 'case': 1}
-19-840->{'2021Judgment': 3, 'case': 1}
-19-416->{'2021Judgment': 3, 'case': 1}
-19-123->{'2021Judgment': 3, 'case': 1}
-19-8709->{'be': 0}
-20-5904->{'be': 0}
-19-5410->{'2021Judgment': 3, 'case': 1}
-20-315->{'be': 0}
-19-783->{'2021Judgment': 3, 'case': 1}
-19-1155->{'2021Judgment': 2, 'case': 1}
-19-1414->{'2021Judgment': 2, 'case': 1}
-20-334->{'be': 0}
-20-437->{'2021Judgment': 3, 'case': 1}
-20-382->{'2021Judgment': 3, 'case': 1}
-19-5807->{'be': 0}
-19-1189->{'2021Judgment': 2, 'case': 1}
-19-930->{'2021Judgment': 3, 'case': 1}
-20-157->{'2021Judgment': 2, 'case': 1}
-19-863->{'2021Judgment': 3}
-20-940->{'Judgment': 2, 'case': 1}
-18-1259->{'be': 0}
-19-1442->{'2021Judgment': 3, 'case': 1}
-19-508->{'2021Judgment': 3, 'case': 1}
-20A151->{}
-18-956->{'2021Judgment': 3, 'case': 1}
-19-1231->{'2021Judgment': 3}
-19-511->{'2021Judgment': 3, 'case': 1}
-20-507->{'judgment': 3}
-19-368->{'be': 0}
-19-292->{'2021Judgment': 2, 'case': 1}
-19-968->{'2021Judgment': 3, 'and': 1}
-19-547->{'2021Judgment': 3, 'case': 1}
-19-438->{'be': 0}
-19-546->{'2021Judgment': 3}
-18-1447->{'2021Judgment': 2, 'case': 1}
-19-199->{'2021Judgment': 3, 'case': 1}
-19-351->{'2021Judgment': 2, 'case': 1}
-19-963->{'certiorari': 4}
-19-357->{'2021Judgment': 2, 'case': 1}
-20-366->{'2020Judgment': 2, 'case': 1}
-19-1302->{'Judgment': 2, 'case': 1}
-18-540->{'2020Judgment': 3, 'case': 1}
-19-108->{'2020Judgment': 3, 'case': 1}
-19-309->{'2020Judgment': 2, 'case': 1}
-19-71->{'be': 0}
-20A87->{}
-19-1261->{'Judgment': 2, 'case': 1}
-19-1108->{'Judgment': 2, 'case': 1}
-20A8->{}
-17-1107->{'be': 0}
-18-9526->{'2020Judgment': 3}
-19-715->{'2020Judgment': 2, 'case': 1}
-19-635->{'is': 0, 'case': 1}
-19-267->{'2020Judgment': 3, 'case': 1}
-19-431->{'2020Judgment': 3, 'case': 1}
-19-518->{'2020Judgment': 3}
-19-631->{'be': 0}
-19-465->{'be': 0}
-19-46->{'be': 0}
-18-1195->{'2020Judgment': 3, 'case': 1}
-19-177->{'2020Judgment': 3}
-18-1323->{'2020Judgment': 3}
-19-7->{'2020Judgment': 2, 'case': 1}
-19-161->{'2020Judgment': 3, 'case': 1}
-18-1501->{'2020Judgment': 2, 'case': 1}
-18-587->{'be': 3, 'PART,': 2, 'and': 1}
-18-9674->{'Judgment': 2, 'case': 1}
-17-1618->{'2020Judgment': 3, 'case': 1}
-18-1584->{'2020Judgment': 3, 'case': 1}
-18-8369->{'be': 0}
-18-1432->{'2020Judgment': 3}
-17-1712->{'be': 0}
-18-6943->{'2020Judgment': 3, 'case': 1}
-18-1334->{'2020Judgment': 3, 'case': 1}
-18-1048->{'2020Judgment': 3, 'case': 1}
-17-1268->{'2020Judgment': 2, 'case': 1}
-18-1086->{'2020Judgment': 3, 'case': 1}
-18-1059->{'2020Judgment': 3, 'case': 1}
-19-67->{'2020Judgment': 2, 'case': 1}
-18-280->{'2020Judgment': 2, 'case': 1}
-18-1023->{'2020Judgment': 3, 'case': 1}
-18-1150->{'be': 0}
-18-725->{'be': 0}
-18-1233->{'2020Judgment': 2, 'case': 1}
-18-260->{'2020Judgment': 2, 'case': 1}
-18-5924->{'2020Judgment': 3}
-18-916->{'2020Judgment': 2, 'case': 1}
-17-1498->{'be': 0, 'PART,': 2, 'case': 1}
-19A1016->{}
-18-882->{'2020Judgment': 3, 'case': 1}
-18-556->{'2020Judgment': 3, 'case': 1}
-18-565->{'be': 0}
-19-5421->{'Judgment': 2, 'case': 1}
-18-1171->{'2020Judgment': 2, 'case': 1}
-18-6135->{'be': 0}
-18-877->{'be': 0}
-18-776->{'2020Judgment': 2, 'case': 1}
-17-834->{'2020Judgment': 3, 'case': 1}
-18-1116->{'be': 0}
-18-7739->{'2020Judgment': 2, 'case': 1}
-18-6662->{'be': 0}
-18-1109->{'be': 0}
-18-1269->{'2020Judgment': 2, 'case': 1}
-17-1678->{'be': 0}
-18-935->{'be': 0}
-18-921->{'Judgment': 2, 'case': 1}
-18-1165->{'2020Judgment': 2, 'case': 1}
-18-938->{'be': 0}
-18-801->{'be': 0}
-18-328->{'be': 0}
-19-122->{}
-18-6210->{'2019Judgment': 2, 'case': 1}
-18-966->{'be': 0, 'PART,': 3, 'case': 1}
-18-422->{'2019Judgment': 2, 'case': 1}
-17-1672->{'2019Judgment': 2, 'case': 1}
-18-15->{'2019Judgment': 2, 'case': 1}
-18-96->{'be': 0}
-18-431->{'be': 0, 'PART,': 2, 'case': 1}
-18-481->{'2019Judgment': 3, 'case': 1}
-18-302->{'be': 0}
-18-266->{'2019Judgment': 3, 'case': 1}
-17-9572->{'2019Judgment': 3, 'case': 1}
-18-457->{'be': 0}
-17-9560->{'2019Judgment': 3, 'case': 1}
-17-647->{'2019Judgment': 2, 'case': 1}
-17-6086->{'be': 0}
-18-485->{'2019Judgment': 3, 'case': 1}
-17-1717->{'2019Judgment': 3, 'case': 1}
-17-1705->{'2019Judgment': 2, 'case': 1}
-17-1702->{'be': 3, 'case': 1}
-16-1275->{'be': 0}
-17-646->{'be': 0}
-18-281->{}
-17-778->{'be': 0}
-17-1594->{'2019Judgment': 3, 'case': 1}
-18-389->{'2019Judgment': 2, 'case': 1}
-17-1484->{'be': 0}
-18-489->{'2019Judgment': 2, 'case': 1}
-18-525->{'be': 0}
-17-8995->{'be': 0}
-18-483->{'Judgment': 3}
-17-1606->{'2019Judgment': 3, 'case': 1}
-17-1471->{'be': 0}
-17-1174->{'2019Judgment': 3, 'case': 1}
-17-1657->{'2019Judgment': 3, 'case': 1}
-17-532->{'2019Judgment': 2, 'case': 1}
-17-290->{'2019Judgment': 2, 'case': 1}
-17-204->{'be': 0}
-18-315->{'be': 0}
-17-1299->{'2019Judgment': 3, 'case': 1}
-17-1201->{'2019Judgment': 3, 'case': 1}
-17-988->{'2019Judgment': 3, 'case': 1}
-18-459->{'certiorari': 4}
-17-8151->{'be': 0}
-17-1184->{'be': 0}
-17-1077->{'be': 0}
-17-949->{'2019Judgment': 3, 'and': 1}
-16-1094->{'2019Judgment': 3, 'case': 1}
-17-961->{'2019Judgment': 2, 'case': 1}
-17-1307->{'be': 0}
-17-1104->{'be': 0}
-16-1363->{'2019Judgment': 3, 'case': 1}
-16-1498->{'be': 0}
-17-1625->{'be': 3, 'case': 1}
-17-1042->{'2019Judgment': 3, 'case': 1}
-17-571->{'be': 0}
-17-7505->{'2019Judgment': 2, 'case': 1}
-17-1026->{'2019Judgment': 3, 'case': 1}
-17-1011->{'2019Judgment': 3, 'case': 1}
-17-1094->{'2019Judgment': 3, 'case': 1}
-18-272->{'is': 1}
-17-419->{'2019Judgment': 3, 'case': 1}
-17-1091->{'2019Judgment': 2, 'case': 1}
-18-443->{}
-17-1229->{'be': 0}
-17-340->{'be': 0}
-17-5554->{'be': 0}
-17-1272->{'2019Judgment': 2, 'case': 1}
-17-773->{'2019Judgment': 3, 'case': 1}
-18-56->{'Judgment': 2, 'case': 1}
-17-1660->{}
-17-765->{'2018Judgment': 3}
-17-71->{'2018Judgment': 2, 'case': 1}
-17-587->{'be': 0}
-17-1364->{'be': 0, 'and': 3}
-17-1106->{'Judgment': 3, 'case': 1}
-17-742->{'Judgment': 3, 'case': 1}
-16-1466->{'2018Judgment': 3, 'case': 1}
-16-1140->{'2018Judgment': 3, 'case': 1}
-17-965->{'2018Judgment': 3, 'case': 1}
-17-586->{'2018Judgment': 3, 'case': 1, 'Judgment': 3, 'PART,': 0}
-16-1454->{'be': 0}
-16-1017->{'certiorari': 4}
-16-961->{'certiorari': 4}
-16-1348->{'be': 0}
-16-1423->{'be': 0}
-16-1011->{'2018Judgment': 3, 'case': 1}
-16-402->{'2018Judgment': 3, 'case': 1}
-17-530->{'2018Judgment': 3, 'case': 1}
-17-130->{'2018Judgment': 3, 'case': 1}
-17-459->{'2018Judgment': 3, 'case': 1}
-17-494->{'2018Judgment': 2, 'case': 1}
-17-333->{'be': 0}
-16-9493->{'2018Judgment': 3, 'case': 1}
-17-5639->{'be': 0}
-17-21->{'2018Judgment': 2, 'case': 1}
-16-1161->{'2018Judgment': 2, 'case': 1}
-16-1220->{'2018Judgment': 2, 'case': 1}
-16-1435->{'2018Judgment': 3, 'case': 1}
-17-269->{'be': 0}
-16-1432->{'2018Judgment': 3, 'case': 1}
-16-980->{'2018Judgment': 3}
-17-432->{'2018Judgment': 3, 'case': 1}
-17-654->{}
-16-1215->{'be': 0}
-17-5716->{'be': 0}
-17-155->{'2018Judgment': 3, 'case': 1}
-16-111->{'2018Judgment': 3}
-16-1495->{'certiorari': 4}
-16-1027->{'2018Judgment': 3, 'case': 1}
-16-1519->{'2018Judgment': 3, 'case': 1}
-17-387->{'2018Judgment': 2, 'case': 1}
-16-285->{'2018Judgment': 3, 'case': 1}
-16-476->{'2018Judgment': 3}
-17-43->{'be': 0}
-16-8255->{'2018Judgment': 3, 'case': 1}
-16-1371->{'2018Judgment': 2, 'case': 1}
-17-312->{'2018Judgment': 2, 'case': 1}
-16-969->{'2018Judgment': 3, 'case': 1}
-16-712->{'be': 0}
-16-499->{'be': 0}
-17-2->{'2018Judgment': 2, 'case': 1}
-15-1498->{'be': 0}
-16-6855->{'2018Judgment': 3, 'case': 1}
-17-467->{'Judgment': 3, 'case': 1}
-16-1362->{'2018Judgment': 3, 'case': 1}
-16-1150->{'2018Judgment': 3, 'case': 1}
-16-6795->{'2018Judgment': 2, 'case': 1}
-16-1144->{'2018Judgment': 3, 'case': 1}
-15-1439->{'be': 0}
-15-1509->{'be': 0}
-16-784->{}
-15-1204->{'2018Judgment': 3, 'case': 1}
-16-498->{'be': 0}
-16-1067->{'be': 0}
-16-534->{'be': 0}
-16-424->{'2018Judgment': 3, 'case': 1}
-16-1276->{'2018Judgment': 3, 'case': 1}
-17-515->{'Judgment': 3, 'case': 1}
-16-299->{'2018Judgment': 3, 'case': 1}
-16-460->{'2018Judgment': 3, 'case': 1}
-15-1485->{'2018Judgment': 3, 'case': 1}
-17-6075->{'Judgment': 2, 'case': 1}
-17-801->{'Judgment': 2, 'case': 1}
-16-658->{'2017Judgment': 2, 'case': 1}
-17-193->{'judgment': 3}
-16-1468->{'Judgment': 3, 'case': 1}
-16-1436->{}
-16-992->{}
-15-118->{'2017Judgment': 2, 'case': 1}
-16-6219->{}
-16-373->{}
-15-577->{'2017Judgment': 3, 'case': 1}
-16-399->{'2017Judgment': 3, 'case': 1}
-15-214->{'be': 0}
-16-327->{}
-16-309->{}
-15-1503->{'be': 0}
-16-240->{}
-16-1116->{'Judgment': 3, 'case': 1}
-16-466->{'2017Judgment': 3, 'case': 1}
-15-1293->{}
-16-5294->{'2017Judgment': 3, 'case': 1}
-15-1358->{}
-15-1194->{}
-16-1177->{'Judgment': 3}
-16-349->{}
-15-1191->{}
-15-457->{}
-15-1039->{}
-16-1023->{}
-16-74->{}
-16-529->{}
-16-142->{}
-16-605->{}
-16-369->{}
-16-405->{'2017Judgment': 3, 'cases': 1}
-16-54->{}
-15-1189->{}
-15-1262->{'be': 0}
-16-254->{}
-16-341->{}
-16-32->{'be': 3, 'PART,': 2, 'case': 1}
-16-348->{}
-15-1031->{}
-15-1111->{}
-15-423->{}
-15-1500->{'2017Judgment': 3, 'case': 1}
-15-1256->{'2017Judgment': 3, 'case': 1}
-15-7250->{'be': 0}
-15-1406->{'2017Judgment': 3, 'case': 1}
-16-149->{}
-15-1248->{}
-15-9260->{'2017Judgment': 3, 'case': 1}
-15-1391->{}
-15-797->{}
-15-649->{}
-15-866->{}
-15-827->{'2017Judgment': 2, 'case': 1}
-14-9496->{'2017Judgment': 3, 'case': 1}
-15-927->{}
-15-1251->{}
-16-6316->{'Judgment': 2, 'case': 1}
-15-8544->{'be': 0}
-15-606->{'2017Judgment': 3, 'case': 1}
-15-680->{'be': 0, 'PART,': 2, 'case': 1}
-15-497->{}
-14-1538->{}
-15-8049->{}
-14-1055->{}
-16-67->{}
-15-5991->{}
-15-777->{}
-15-628->{'be': 0}
-15-513->{'be': 0}
-15-537->{}
-15-9173->{}
-14-10154->{}
-15-274->{}
-15-474->{}
-15-674->{}
-13-1496->{}
-15-6092->{}
-14-1468->{}
-14-981->{}
-15-138->{}
-14-6166->{}
-15-446->{}
-14-1373->{}
-15-415->{}
-15-375->{}
-15-7->{}
-14-916->{}
-15-420->{}
-15-233->{}
-14-1513->{}
-15-108->{}
-15-458->{}
-15-5040->{}
-15-339->{}
-15-109->{}
-15-8366->{}
-15-789->{}
-15-290->{}
-14-613->{}
-14-1504->{}
-14-8349->{}
-14-1096->{}
-14-1457->{}
-14-1375->{}
-15-833->{}
-14-1418->{}
-14-1132->{}
-15-145->{}
-13-1339->{}
-15-338->{}
-14-361->{}
-14-1280->{}
-14-232->{'be': 0}
-14-770->{'be': 0}
-14-8913->{}
-14-1175->{}
-14-614->{}
-15-6418->{}
-15-723->{}
-15-5238->{}
-14-940->{}
-14-419->{}
-14-915->{}
-14-520->{}
-14-1406->{}
-14-1146->{}
-14-1209->{}
-14-10078->{}
-15-648->{}
-14-10008->{}
-14-1382->{}
-14-8358->{}
-14-181->{}
-15-278->{}
-15-493->{}
-14-840->{}
-14-510->{}
-14-1095->{}
-14-280->{}
-14-1516->{}
-14-857->{}
-14-723->{}
-14-449->{}
-14-7505->{}
-14-844->{}
-14-1372->{}
-14-462->{}
-14-990->{}
-13-1067->{}
-14-1143->{}
-14-848->{}
-14-7955->{}
-13-1314->{}
-14-46->{}
-14-556->{'2015Judgment': 3}
-13-7120->{}
-13-1371->{}
-14-114->{}
-13-720->{}
-13-1175->{}
-14-6368->{}
-14-275->{}
-13-1433->{}
-13-1428->{}
-13-1352->{}
-14-144->{}
-14-378->{}
-13-502->{}
-14-185->{}
-14-103->{}
-13-1402->{}
-13-628->{}
-14-939->{}
-13-1034->{}
-13-1421->{}
-14-86->{}
-13-983->{}
-13-935->{}
-12-1497->{}
-13-896->{}
-13-1487->{}
-13-1412->{}
-13-485->{}
-13-1333->{}
-13-550->{}
-14-400->{}
-14-116->{}
-13-1019->{}
-13-1499->{}
-13-1074->{}
-13-271->{}
-13-9972->{}
-14-15->{}
-14-618->{}
-14-593->{}
-13-895->{}
-12-1226->{}
-13-435->{}
-13-352->{}
-13-1041->{}
-13-1080->{}
-13-553->{}
-13-1032->{}
-13-7451->{}
-13-534->{}
-13-1010->{}
-13-1211->{}
-13-1174->{}
-13-894->{}
-14-6873->{'Judgment': 3, 'case': 1}
-13-6827->{}
-13-854->{'2015Judgment': 2, 'case': 1}
-13-975->{}
-13-7211->{}
-13-9026->{}
-13-684->{}
-13-719->{}
-13-604->{}
-13-517->{}
-13-433->{}
-14-95->{}
-14-212->{}
-21-463->{'be': 0, 'PART,': 3, 'case': 1}
-20-1668->{'Judgment': 3}
-20-1539->{'immunity': 3}
-21A23->{}
-20-1084->{'Judgment': 3, 'case': 1}
-19-1257->{'2021Judgment': 3, 'case': 1}
-19-251->{'2021Judgment': 3, 'case': 1}
-20-440->{'2021Judgment': 2, 'case': 1}
-19-897->{'2021Judgment': 3}
-19-1039->{'2021Judgment': 3, 'case': 1}
-20-1212->{'Judgment': 2, 'case': 1}
-20-391->{}
-20-297->{'2021Judgment': 3, 'case': 1}
-20-472->{'2021Judgment': 3}
-20-543->{'2021Judgment': 3, 'case': 1}
-20-18->{'2021Judgment': 2, 'case': 1}
-19-422->{'be': 0, 'PART,': 2, 'case': 1}
+21-588 (21A85)->None
+21-463->Motion for divided argument filed by respondents DENIED.
+143, Orig.->None
+20-1668->Judgment REVERSED.
+20-1539->Villegas is not entitled to qualified immunity REVERSED.
+21A23->None
+20-1084->None
+19-1257->Judgment REVERSED and case REMANDED.
+19-251->Judgment REVERSED and case REMANDED.
+20-440->Judgment VACATED and case REMANDED.
+19-897->Judgment REVERSED.
+19-1039->Judgment REVERSED and case REMANDED.
+20-1212->None
+20-391->None
+20-297->Judgment REVERSED and case REMANDED.
+20-472->Judgment REVERSED.
+20-543->Motion for divided argument filed by Ute Indian Tribe of the Uintah and Ouray Reservation DENIED.
+20-18->Judgment VACATED and case REMANDED.
+19-422->Adjudged to be AFFIRMED IN PART, REVERSED IN PART, VACATED IN PART, and case REMANDED.
+20-255->Adjudged to be AFFIRMED.
+20-107->Judgment REVERSED and case REMANDED.
+20-222->Judgment VACATED and case REMANDED.
+20-512->Adjudged to be AFFIRMED.
+19-1434->Judgment VACATED and case REMANDED.
+19-840->Motion to expedite consideration filed by petitioner DENIED.
+19-416->Judgment REVERSED and case REMANDED.
+19-123->Judgment REVERSED and case REMANDED.
+19-8709->Adjudged to be AFFIRMED.
+20-5904->Adjudged to be AFFIRMED.
+19-5410->Judgment REVERSED and case REMANDED.
+20-315->Adjudged to be AFFIRMED.
+19-783->Judgment REVERSED and case REMANDED.
+19-1155->Judgment VACATED and case REMANDED.
+19-1414->Judgment VACATED and case REMANDED.
+20-334->Motion of the Acting Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+20-437->Judgment REVERSED and case REMANDED.
+20-382->Judgment REVERSED and case REMANDED.
+19-5807->Adjudged to be AFFIRMED.
+19-1189->Judgment VACATED and case REMANDED.
+19-930->Judgment REVERSED and case REMANDED.
+20-157->Judgment VACATED and case REMANDED.
+19-863->Judgment REVERSED.
+20-940->None
+18-1259->Adjudged to be AFFIRMED.
+19-1442->Judgment REVERSED and case REMANDED.
+19-508->Judgment REVERSED and case REMANDED.
+20A151->None
+18-956->Judgment REVERSED and case REMANDED.
+142, Orig.->None
+19-1231->Judgment REVERSED.
+19-511->Judgment REVERSED and case REMANDED.
+20-507->Petition GRANTED and judgment REVERSED.
+19-368->Motion of the Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+19-292->Judgment VACATED and case REMANDED.
+19-968->Judgment REVERSED and REMANDED.
+19-547->Judgment REVERSED and case REMANDED.
+19-438->Adjudged to be AFFIRMED.
+19-546->Judgment REVERSED.
+18-1447->None
+19-199->Judgment REVERSED and case REMANDED.
+19-351->Judgment VACATED and case REMANDED.
+19-963->Writ of certiorari DISMISSED as improvidently granted.
+19-357->Judgment VACATED and case REMANDED.
+20-366->Judgment VACATED and case REMANDED.
+19-1302->None
+65, Orig.->None
+18-540->Judgment REVERSED and case REMANDED.
+19-108->Judgment REVERSED and case REMANDED.
+19-309->Judgment VACATED and case REMANDED.
+19-71->Adjudged to be AFFIRMED.
+20A87->None
+19-1261->None
+19-1108->None
+20A8->None
+17-1107->Adjudged to be AFFIRMED.
+18-9526->Judgment REVERSED.
+19-715->Judgment VACATED and case REMANDED.
+19-635->Judgment is AFFIRMED and case REMANDED.
+19-267->Judgment REVERSED and case REMANDED.
+19-431->Judgment REVERSED and case REMANDED.
+19-518->None
+19-631->Adjudged to be AFFIRMED.
+19-465->Adjudged to be AFFIRMED.
+19-46->Adjudged to be AFFIRMED.
+18-1195->Motion for leave to file amicus brief out of time filed by Agudath Israel of America DENIED.
+19-177->Judgment REVERSED.
+18-1323->Motion of Rebekah Gee, Secretary, Louisiana Department of Health and Hospitals, to supplement the record and to file certain documents under seal DENIED.
+19-7->Judgment VACATED and case REMANDED.
+19-161->Judgment REVERSED and case REMANDED.
+18-1501->Judgment VACATED and case REMANDED.
+18-587->None
+18-9674->None
+17-1618->Motion for divided argument filed by petitioners DENIED.
+18-1584->Judgment REVERSED and case REMANDED.
+18-8369->Adjudged to be AFFIRMED.
+18-1432->Judgment REVERSED.
+17-1712->Adjudged to be AFFIRMED.
+18-6943->Judgment REVERSED and case REMANDED.
+18-1334->Motion for divided argument filed by Puerto Rico Fiscal Agency and Financial Advisory Authority DENIED.
+18-1048->Judgment REVERSED and case REMANDED.
+17-1268->Judgment VACATED and case REMANDED.
+18-1086->Judgment REVERSED and case REMANDED.
+18-1059->Judgment REVERSED and case REMANDED.
+19-67->Judgment VACATED and case REMANDED.
+18-280->Motion of respondents to hold briefing schedule in abeyance DENIED.
+18-1023->Motion for enlargement of time for oral argument and for divided argument DENIED.
+18-1150->Adjudged to be AFFIRMED.
+18-725->Adjudged to be AFFIRMED.
+18-1233->Judgment VACATED and case REMANDED.
+18-260->Judgment VACATED and case REMANDED.
+18-5924->Judgment REVERSED.
+18-916->Judgment VACATED and case REMANDED.
+17-1498->Adjudged to be AFFIRMED IN PART, VACATED IN PART, and case REMANDED.
+19A1016->None
+18-882->Judgment REVERSED and case REMANDED.
+18-556->Judgment REVERSED and case REMANDED.
+18-565->Adjudged to be AFFIRMED.
+19-5421->None
+18-1171->Judgment VACATED and case REMANDED.
+18-6135->Adjudged to be AFFIRMED.
+18-877->Adjudged to be AFFIRMED.
+18-776->Judgment VACATED and case REMANDED.
+17-834->Judgment REVERSED and case REMANDED.
+18-1116->Adjudged to be AFFIRMED.
+18-7739->Judgment VACATED and case REMANDED.
+18-6662->Adjudged to be AFFIRMED.
+18-1109->Motion of Criminal Justice Legal Foundation for enlargement of time for oral argument, for leave to participate in oral argument as amicus curiae, and for divided argument DENIED.
+18-1269->Judgment VACATED and case REMANDED.
+17-1678->Adjudged to be AFFIRMED.
+18-935->Adjudged to be AFFIRMED.
+18-921->None
+18-1165->Judgment VACATED and case REMANDED.
+18-938->Adjudged to be AFFIRMED.
+18-801->Adjudged to be AFFIRMED.
+18-328->Adjudged to be AFFIRMED.
+19-122->None
+18-6210->Judgment VACATED and case REMANDED.
+18-966->Adjudged to be AFFIRMED IN PART, REVERSED IN PART, and case REMANDED.
+18-422->Judgment VACATED and case REMANDED.
+17-1672->Judgment VACATED and case REMANDED.
+18-15->Judgment VACATED and case REMANDED.
+18-96->Motion for divided argument filed by respondents DENIED.
+18-431->Adjudged to be AFFIRMED IN PART, VACATED IN PART, and case REMANDED.
+18-481->Judgment REVERSED and case REMANDED.
+18-302->Adjudged to be AFFIRMED.
+18-266->Judgment REVERSED and case REMANDED.
+17-9572->Judgment REVERSED and case REMANDED.
+18-457->Adjudged to be AFFIRMED.
+17-9560->Judgment REVERSED and case REMANDED.
+17-647->Judgment VACATED and case REMANDED.
+17-6086->Adjudged to be AFFIRMED.
+18-485->Thomas More Lawyers Guild of Rochester, New York for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+17-1717->Judgment REVERSED and case REMANDED.
+17-1705->Judgment VACATED and case REMANDED.
+17-1702->Adjudged to be REVERSED IN PART and case REMANDED.
+16-1275->Adjudged to be AFFIRMED.
+17-646->Adjudged to be AFFIRMED.
+18-281->None
+17-778->Adjudged to be AFFIRMED.
+17-1594->Judgment REVERSED and case REMANDED.
+18-389->Judgment VACATED and case REMANDED.
+17-1484->Adjudged to be AFFIRMED.
+18-489->Judgment VACATED and case REMANDED.
+18-525->Adjudged to be AFFIRMED.
+17-8995->Adjudged to be AFFIRMED.
+18-483->None
+17-1606->Judgment REVERSED and case REMANDED.
+17-1471->Adjudged to be AFFIRMED.
+17-1174->Judgment REVERSED and case REMANDED.
+17-1657->Judgment REVERSED and case REMANDED.
+17-532->Judgment VACATED and case REMANDED.
+17-290->Judgment VACATED and case REMANDED.
+17-204->Adjudged to be AFFIRMED.
+18-315->Adjudged to be AFFIRMED.
+17-1299->Judgment REVERSED and case REMANDED.
+17-1201->Judgment REVERSED and case REMANDED.
+17-988->Judgment REVERSED and case REMANDED.
+18-459->Writ of certiorari DISMISSED as improvidently granted.
+17-8151->Adjudged to be AFFIRMED.
+17-1184->Adjudged to be AFFIRMED.
+17-1077->Adjudged to be AFFIRMED.
+17-949->Judgment REVERSED and REMANDED.
+16-1094->Judgment REVERSED and case REMANDED.
+17-961->Katriel DENIED.
+17-1307->Adjudged to be AFFIRMED.
+17-1104->Adjudged to be AFFIRMED.
+16-1363->Judgment REVERSED and case REMANDED.
+16-1498->Adjudged to be AFFIRMED.
+17-1625->Adjudged to be REVERSED IN PART and case REMANDED.
+17-1042->Judgment REVERSED and case REMANDED.
+17-571->Adjudged to be AFFIRMED.
+17-7505->Judgment VACATED and case REMANDED.
+17-1026->Judgment REVERSED and case REMANDED.
+17-1011->Judgment REVERSED and case REMANDED.
+17-1094->Judgment REVERSED and case REMANDED.
+18-272->None
+17-419->Judgment REVERSED and case REMANDED.
+17-1091->Judgment VACATED and case REMANDED.
+18-443->Motion of Attorney General of Texas for leave to intervene as a respondent DENIED.
+17-1229->Adjudged to be AFFIRMED.
+17-340->Adjudged to be AFFIRMED.
+17-5554->Adjudged to be AFFIRMED.
+17-1272->Judgment VACATED and case REMANDED.
+17-773->Judgment REVERSED and case REMANDED.
+18-56->Judgment VACATED and case REMANDED.
+17-1660->None
+17-765->Joint motion for divided argument filed by respondents DENIED.
+17-71->Judgment VACATED and case REMANDED.
+17-587->Adjudged to be AFFIRMED.
+17-1364->Adjudged to be AFFIRMED in part and REVERSED in part.
+17-1106->Judgment REVERSED and case REMANDED.
+17-742->Judgment REVERSED and case REMANDED.
+16-1466->Judgment REVERSED and case REMANDED.
+142, Orig.->None
+16-1140->Judgment REVERSED and case REMANDED.
+17-965->Motion of The Becket Fund for Religious Liberty for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+17-586->Judgment REVERSED, and case REMANDED.
+16-1454->Adjudged to be AFFIRMED.
+16-1017->Writ of certiorari DISMISSED as improvidently granted.
+16-961->Writ of certiorari DISMISSED as improvidently granted.
+16-1348->Adjudged to be AFFIRMED.
+16-1423->Adjudged to be AFFIRMED.
+16-1011->Judgment REVERSED and case REMANDED.
+16-402->Judgment REVERSED and case REMANDED.
+17-530->Judgment REVERSED and case REMANDED.
+17-130->Judgment REVERSED and case REMANDED.
+17-459->Judgment REVERSED and case REMANDED.
+17-494->Judgment VACATED and case REMANDED.
+17-333->Motion to expedite consideration filed by appellants DENIED.
+16-9493->Judgment REVERSED and case REMANDED.
+17-5639->Adjudged to be AFFIRMED.
+17-21->Judgment VACATED and case REMANDED.
+16-1161->Judgment VACATED and case REMANDED.
+16-1220->Judgment VACATED and case REMANDED.
+16-1435->Judgment REVERSED and case REMANDED.
+17-269->Adjudged to be AFFIRMED by an equally divided Court.
+16-1432->Judgment REVERSED and case REMANDED.
+16-980->Judgment REVERSED.
+17-432->Judgment REVERSED and case REMANDED.
+17-654->None
+16-1215->Adjudged to be AFFIRMED.
+17-5716->Adjudged to be AFFIRMED.
+17-155->Judgment REVERSED and case REMANDED.
+16-111->Judgment REVERSED.
+16-1495->Writ of certiorari DISMISSED as improvidently granted.
+16-1027->Judgment REVERSED and case REMANDED.
+16-1519->Judgment REVERSED and case REMANDED.
+17-387->Judgment VACATED and case REMANDED.
+16-285->Judgment REVERSED and case REMANDED.
+16-476->Rodenberg for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+17-43->Adjudged to be AFFIRMED.
+16-8255->Judgment REVERSED and case REMANDED.
+16-1371->Judgment VACATED and case REMANDED.
+17-312->Judgment VACATED and case REMANDED.
+16-969->Motion for divided argument filed by respondent DENIED.
+16-712->Adjudged to be AFFIRMED.
+16-499->Adjudged to be AFFIRMED.
+17-2->Judgment VACATED and case REMANDED.
+15-1498->Adjudged to be AFFIRMED.
+16-6855->Judgment REVERSED and case REMANDED.
+17-467->Petition for certiorari GRANTED, Judgment REVERSED and case REMANDED Justice Sotomayor, with whom Justice Ginsburg joins, dissenting.
+16-1362->Judgment REVERSED and case REMANDED.
+16-1150->Judgment REVERSED and case REMANDED.
+16-6795->Judgment VACATED and case REMANDED.
+16-1144->Judgment REVERSED and case REMANDED.
+15-1439->Adjudged to be AFFIRMED.
+141, Orig.->None
+15-1509->Adjudged to be AFFIRMED.
+16-784->None
+15-1204->Judgment REVERSED and case REMANDED.
+16-498->Adjudged to be AFFIRMED.
+16-1067->Adjudged to be AFFIRMED.
+16-534->Adjudged to be AFFIRMED.
+16-424->Judgment REVERSED and case REMANDED.
+16-1276->Judgment REVERSED and case REMANDED.
+137, Orig->None
+17-515->Judgment REVERSED and case REMANDED.
+16-299->Motion to hold the briefing schedule in abeyance DENIED.
+16-460->Judgment REVERSED and case REMANDED.
+15-1485->Judgment REVERSED and case REMANDED.
+17-6075->Judgment VACATED and case REMANDED.
+17-801->Judgment VACATED and case REMANDED.
+16-658->Judgment VACATED and case REMANDED.
+17-193->Petition for certiorari GRANTED, judgment REVERSED.
+16-1468->Petition for certiorari GRANTED, Judgment REVERSED and case REMANDED.
+16-1436->None
+16-992->Judgment REVERSED and CASE REMANDED.
+15-118->Judgment VACATED and case REMANDED.
+16-6219->Adjudged to be AFFIRMED.
+16-373->Adjudged to be AFFIRMED.
+15-577->Judgment REVERSED and case REMANDED.
+16-399->Judgment REVERSED and case REMANDED.
+15-214->Adjudged to be AFFIRMED.
+16-327->Judgment REVERSED and case REMANDED.
+16-309->Judgment VACATED and case REMANDED.
+15-1503->Adjudged to be AFFIRMED.
+16-240->Adjudged to be AFFIRMED.
+16-1116->Judgment REVERSED and case REMANDED.
+16-466->Judgment REVERSED and case REMANDED.
+15-1293->Adjudged to be AFFIRMED.
+16-5294->Judgment REVERSED and case REMANDED.
+15-1358->Adjudged to be REVERSED IN PART and VACATED and REMANDED IN PART.
+15-1194->Judgment REVERSED and case REMANDED.
+16-1177->Judgment REVERSED.
+16-349->Adjudged to be AFFIRMED.
+15-1191->Adjudged to be AFFIRMED IN PART, REVERSED IN PART, and case REMANDED.
+15-457->Judgment REVERSED and case REMANDED.
+15-1039->Adjudged to be VACATED IN PART, REVERSED IN PART, and case REMANDED.
+16-1023->The judgment is VACATED, and the case is REMANDED.
+16-74->Judgment REVERSED.
+16-529->Judgment REVERSED.
+16-142->Judgment REVERSED.
+16-605->Motion to be added as a respondent and for leave to participate in oral argument DENIED.
+16-369->Judgment VACATED and case REMANDED.
+16-405->Judgment REVERSED and cases REMANDED.
+16-54->Judgment REVERSED.
+15-1189->Judgment REVERSED and case REMANDED.
+15-1262->Adjudged to be AFFIRMED.
+16-254->Motion for divided argument filed by petitioner DENIED.
+16-341->Judgment REVERSED and case REMANDED.
+16-32->Adjudged to be REVERSED IN PART, VACATED IN PART, and case REMANDED.
+16-348->Judgment REVERSED.
+15-1031->Judgment REVERSED and case REMANDED.
+15-1111->Judgment VACATED and case REMANDED.
+15-423->Judgment VACATED and case REMANDED.
+15-1500->Judgment REVERSED and case REMANDED.
+15-1256->Judgment REVERSED and case REMANDED.
+15-7250->Adjudged to be AFFIRMED.
+15-1406->Judgment REVERSED and case REMANDED.
+16-149->Judgment REVERSED and case REMANDED.
+15-1248->Judgment VACATED and case REMANDED.
+15-9260->Judgment REVERSED and case REMANDED.
+15-1391->Judgment VACATED and case REMANDED.
+15-797->Judgment VACATED and case REMANDED.
+15-649->Judgment REVERSED and case REMANDED.
+15-866->Adjudged to be AFFIRMED.
+15-827->Judgment VACATED and case REMANDED.
+14-9496->Judgment REVERSED and case REMANDED.
+15-927->Adjudged to be VACATED IN PART, and case REMANDED.
+15-1251->Adjudged to be AFFIRMED.
+16-6316->Judgment VACATED and case REMANDED.
+15-8544->Adjudged to be AFFIRMED.
+15-606->Judgment REVERSED and case REMANDED.
+15-680->Adjudged to be AFFIRMED IN PART, VACATED IN PART, and case REMANDED.
+15-497->Judgment VACATED and case REMANDED.
+14-1538->Judgment REVERSED and case REMANDED.
+15-8049->Judgment REVERSED and case REMANDED.
+14-1055->Judgment REVERSED.
+16-67->Petition GRANTED Judgment VACATED and case REMANDED.
+15-5991->Judgment VACATED and case REMANDED.
+15-777->Judgment REVERSED and case REMANDED.
+15-628->Adjudged to be AFFIRMED.
+15-513->Adjudged to be AFFIRMED.
+15-537->Adjudged to be AFFIRMED.
+15-9173->Judgment VACATED and case REMANDED.
+14-10154->Adjudged to be AFFIRMED.
+15-274->Motion to allow counsel, or Guardian Ad Litem, to represent all unborn persons DENIED.
+15-474->Judgment VACATED and case REMANDED.
+15-674->Adjudged to be AFFIRMED by an equally divided Court.
+13-1496->Adjudged to be AFFIRMED by an equally divided Court.
+15-6092->Judgment REVERSED.
+14-1468->REVERSED and case REMANDED.
+14-981->Adjudged to be AFFIRMED.
+15-138->Judgment REVERSED and case REMANDED.
+14-6166->Adjudged to be AFFIRMED.
+15-446->Adjudged to be AFFIRMED.
+14-1373->Judgment REVERSED.
+15-415->Judgment VACATED and case REMANDED.
+15-375->Judgment VACATED and case REMANDED.
+15-7->Judgment VACATED and case REMANDED.
+14-916->Judgment REVERSED and case REMANDED.
+15-420->Judgment REVERSED and case REMANDED.
+15-233->Adjudged to be AFFIRMED.
+14-1513->Joint motion for divided argument filed by respondents DENIED.
+15-108->Adjudged to be AFFIRMED.
+15-458->Adjudged to be AFFIRMED.
+15-5040->Judgment VACATED and case REMANDED.
+15-339->Judgment VACATED and case REMANDED.
+15-109->None
+15-8366->Judgment REVERSED and case REMANDED.
+15-789->Judgment REVERSED and case REMANDED for further proceedings consistent with this opinion.
+15-290->Adjudged to be AFFIRMED.
+14-613->Judgment VACATED and case REMANDED.
+14-1504->None
+14-8349->Judgment REVERSED and case REMANDED.
+14-1096->Adjudged to be AFFIRMED.
+14-1457->Adjudged to be AFFIRMED.
+14-1375->Judgment VACATED and case REMANDED.
+15-833->Judgment REVERSED.
+14-1418->Judgment VACATED and case REMANDED.
+14-1132->Adjudged to be AFFIRMED.
+15-145->Judgment REVERSED and case REMANDED.
+13-1339->Judgment VACATED and case REMANDED.
+15-338->Judgment REVERSED and case REMANDED.
+14-361->Adjudged to be AFFIRMED.
+14-1280->Judgment REVERSED and case REMANDED.
+14-232->Adjudged to be AFFIRMED.
+14-770->Adjudged to be AFFIRMED.
+14-8913->Judgment REVERSED and case REMANDED.
+14-1175->Judgment VACATED and case REMANDED.
+14-614->Adjudged to be AFFIRMED.
+15-6418->Judgment VACATED and case REMANDED.
+15-723->Petition GRANTED and Judgment REVERSED.
+15-5238->Judgment REVERSED.
+14-940->Adjudged to be AFFIRMED.
+14-419->Judgment VACATED and case REMANDED.
+14-915->Adjudged to be AFFIRMED.
+14-520->Adjudged to be AFFIRMED.
+14-1406->Adjudged to be AFFIRMED.
+14-1146->None
+14-1209->Judgment VACATED and case REMANDED.
+137, Orig->None
+14-10078->Judgment VACATED and case REMANDED.
+15-648->Judgment REVERSED and case REMANDED.
+14-10008->Judgment REVERSED and case REMANDED.
+14-1382->Adjudged to be AFFIRMED.
+14-8358->Adjudged to be AFFIRMED.
+14-181->Adjudged to be AFFIRMED.
+15-278->Judgment REVERSED and case REMANDED for further proceedings consistent with this opinion.
+15-493->Judgment REVERSED and case REMANDED for further proceedings not inconsistent with this opinion.
+14-840->Judgment REVERSED and case REMANDED.
+14-510->Adjudged to be AFFIRMED.
+14-1095->Adjudged to be AFFIRMED.
+14-280->Judgment REVERSED and case REMANDED.
+14-1516->Writ of certiorari DISMISSED as improvidently granted.
+14-857->None
+14-723->Judgment REVERSED and case REMANDED.
+14-449->Judgment REVERSED and case REMANDED.
+14-7505->Judgment REVERSED and case REMANDED.
+14-844->Adjudged to be AFFIRMED.
+14-1372->None
+14-462->Judgment REVERSED and case REMANDED.
+14-990->Judgment REVERSED and case REMANDED.
+13-1067->Judgment REVERSED.
+14-1143->Judgment REVERSED Justice Scalia, concurring in the judgment.
+14-848->Judgment REVERSED.
+14-7955->Adjudged to be AFFIRMED.
+13-1314->Adjudged to be AFFIRMED.
+14-46->Judgment REVERSED and case REMANDED.
+14-556->Motion for leave to file amicus brief filed by Theodore Coates DENIED.
+13-7120->Judgment REVERSED and case REMANDED.
+13-1371->None
+14-114->Adjudged to be AFFIRMED.
+13-720->Adjudged to be AFFIRMED.
+13-1175->Adjudged to be AFFIRMED.
+14-6368->Judgment VACATED and case REMANDED.
+14-275->Judgment REVERSED.
+13-1433->Judgment VACATED and case REMANDED.
+13-1428->Judgment REVERSED and case REMANDED.
+13-1352->Judgment REVERSED and case REMANDED.
+14-144->Judgment REVERSED.
+14-378->Judgment VACATED and case REMANDED.
+13-502->Judgment REVERSED and case REMANDED.
+14-185->Judgment REVERSED and case REMANDED.
+14-103->Adjudged to be AFFIRMED.
+13-1402->Judgment VACATED and case REMANDED.
+13-628->Adjudged to be AFFIRMED.
+14-939->Judgment REVERSED.
+13-1034->Judgment REVERSED.
+13-1421->Judgment REVERSED and case REMANDED.
+14-86->Judgment REVERSED and case REMANDED.
+13-983->Judgment REVERSED and case REMANDED.
+13-935->Judgment REVERSED and case REMANDED.
+12-1497->Adjudged to be REVERSED IN PART, AFFIRMED IN PART, and case REMANDED.
+13-896->Judgment VACATED and case REMANDED.
+13-1487->Judgment VACATED and case REMANDED.
+13-1412->None
+13-485->Adjudged to be AFFIRMED.
+13-1333->Adjudged to be AFFIRMED.
+13-550->Judgment VACATED and case REMANDED.
+14-400->Judgment REVERSED and case REMANDED Ginsburg, J.
+14-116->Adjudged to be AFFIRMED.
+13-1019->Judgment VACATED and case REMANDED.
+13-1499->Adjudged to be AFFIRMED.
+13-1074->Judgment is AFFIRMED and CASE REMANDED.
+13-271->Adjudged to be AFFIRMED.
+13-9972->Judgment VACATED and case REMANDED.
+14-15->Judgment REVERSED.
+14-618->Petition GRANTED Judgment REVERSED and case REMANDED.
+14-593->Judgment VACATED and case REMANDED.
+13-895->Judgment VACATED and case REMANDED.
+12-1226->Judgment VACATED and case REMANDED.
+13-435->Judgment VACATED and case REMANDED.
+13-352->Judgment REVERSED and case REMANDED.
+126, Orig.->None
+13-1041->Judgment REVERSED.
+13-1080->Judgment VACATED and case REMANDED.
+13-553->Judgment REVERSED and case REMANDED.
+13-1032->Judgment REVERSED and case REMANDED.
+13-7451->Judgment REVERSED and case REMANDED.
+13-534->Adjudged to be AFFIRMED.
+126, Orig.->None
+13-1010->Judgment VACATED and case REMANDED.
+13-1211->Adjudged to be AFFIRMED.
+13-1174->Judgment REVERSED and case REMANDED.
+13-894->Adjudged to be AFFIRMED.
+14-6873->None
+13-6827->Judgment REVERSED and case REMANDED.
+13-854->Judgment VACATED and case REMANDED.
+13-975->Judgment REVERSED and case REMANDED.
+13-7211->Judgment REVERSED and case REMANDED.
+13-9026->Adjudged to be AFFIRMED.
+13-684->Judgment REVERSED and case REMANDED.
+5, Orig.->None
+13-719->Judgment VACATED and case REMANDED.
+13-604->Adjudged to be AFFIRMED.
+13-517->Adjudged to be AFFIRMED.
+13-433->Judgment REVERSED.
+14-95->Judgment REVERSED and case REMANDED for further proceedings consistent with this opinion.
+14-212->Judgment REVERSED and case REMANDED.
+13-1318->Judgment REVERSED and case REMANDED.
+13-946->Judgment REVERSED and case REMANDED.
+13-9085->None
+13-354->Adjudged to be AFFIRMED.
+11-681->Adjudged to be REVERSED IN PART, AFFIRMED IN PART, and case REMANDED.
+12-1281->Motion of Professor Victor Williams for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+12-1168->Judgment REVERSED and case REMANDED.
+13-461->Judgment REVERSED and case REMANDED.
+12-751->Judgment VACATED and case REMANDED.
+13-132->Judgment REVERSED and case REMANDED.
+13-316->Adjudged to be AFFIRMED.
+12-1146->Adjudged to be AFFIRMED IN PART, REVERSED IN PART.
+13-317->Judgment VACATED and case REMANDED.
+13-301->Judgment VACATED and case REMANDED.
+13-483->Adjudged to be AFFIRMED IN PART, REVERSED IN PART, and case REMANDED.
+13-298->Adjudged to be AFFIRMED.
+12-1493->Adjudged to be AFFIRMED.
+13-193->Judgment REVERSED and case REMANDED.
+12-842->Adjudged to be AFFIRMED.
+13-299->Adjudged to be AFFIRMED.
+12-761->Judgment REVERSED and case REMANDED.
+12-930->Judgment REVERSED and case REMANDED.
+12-1200->Adjudged to be AFFIRMED.
+13-339->Judgment REVERSED.
+12-786->Judgment REVERSED and case REMANDED.
+13-369->Judgment VACATED and case REMANDED.
+12-158->Judgment REVERSED and case REMANDED.
+13-5967->Judgment REVERSED and case REMANDED.
+12-515->None
+12-1117->Judgment REVERSED and case REMANDED.
+13-115->Judgment REVERSED.
+12-10882->Judgment REVERSED and case REMANDED.
+12-1315->Judgment REVERSED and case REMANDED.
+13-551->Judgment VACATED and case REMANDED.
+12-9012->Adjudged to be AFFIRMED Breyer, J.
+12-696->Judgment REVERSED.
+12-1163->Judgment VACATED and case REMANDED.
+12-1184->Judgment REVERSED and case REMANDED.
+12-1182->Judgment REVERSED and case REMANDED.
+12-8561->Motion for leave to file amici brief filed by Professors Adam Lamparello, and Charles McClean in support of neither party out of time DENIED.
+12-794->Judgment REVERSED and case REMANDED.
+12-9490->Adjudged to be AFFIRMED.
+12-682->Judgment REVERSED.
+12-462->Judgment REVERSED and case REMANDED.
+12-536->Judgment REVERSED and case REMANDED.
+12-1371->Judgment REVERSED and case REMANDED.
+12-1408->Judgment REVERSED and case REMANDED.
+12-873->Adjudged to be AFFIRMED.
+12-1173->Judgment REVERSED and case REMANDED.
+12-895->Judgment VACATED and case REMANDED.
+12-138->Judgment REVERSED.
+12-820->Adjudged to be AFFIRMED.
+12-3->Judgment REVERSED and case REMANDED.
+12-5196->Judgment REVERSED and case REMANDED.
+12-79->Adjudged to be AFFIRMED.
+12-1038->Judgment VACATED and case REMANDED.
+12-464->None
+12-7822->Adjudged to be AFFIRMED.
+12-574->Judgment REVERSED.
+13-6440->Judgment VACATED and case REMANDED.
+12-315->Judgment REVERSED and case REMANDED.
+12-417->Adjudged to be AFFIRMED.
+12-7515->Judgment REVERSED and case REMANDED.
+12-1128->Judgment REVERSED and case REMANDED.
+12-992->Judgment REVERSED and case REMANDED.
+12-1036->Judgment REVERSED and case REMANDED.
+11-965->Judgment REVERSED.
+12-729->Adjudged to be AFFIRMED.
+12-609->Judgment VACATED and case REMANDED.
+12-99->Writ of certiorari DISMISSED as improvidently granted.
+12-815->Judgment REVERSED.
+12-929->Sachs for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+12-562->Judgment REVERSED Scalia, J.
+13-113->Judgment VACATED and case REMANDED.
+12-414->Judgment REVERSED Alito, J.
+12-1217->Judgment REVERSED and case REMANDED.
+12-872->Writ of certiorari DISMISSED as improvidently granted.
+12-307->Adjudged to be AFFIRMED.
+12-357->Judgment REVERSED.
+12-144->Judgment VACATED and case REMANDED.
+12-399->Judgment REVERSED and case REMANDED.
+11-1447->Judgment REVERSED and case REMANDED.
+12-96->Judgment REVERSED.
+12-1084->Judgment REVERSED,  and case REMANDED.
+12-142->Judgment REVERSED.
+11-556->Adjudged to be AFFIRMED.
+12-418->Judgment REVERSED and case REMANDED.
+12-484->Judgment VACATED and case REMANDED.
+11-345->Judgment VACATED and case REMANDED.
+11-9540->Judgment REVERSED.
+12-133->Judgment REVERSED.
+12-10->Adjudged to be AFFIRMED.
+12-246->Adjudged to be AFFIRMED.
+12-416->Motion of Enavail, LLC for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+11-9335->Judgment VACATED and case REMANDED Thomas, J.
+12-25->Judgment VACATED and case REMANDED.
+12-71->Motion to correct case caption DENIED.
+11-798->Adjudged to be REVERSED IN PART and case REMANDED.
+11-889->Adjudged to be AFFIRMED.
+12-167->Judgment VACATED and case REMANDED.
+12-398->Adjudged to be AFFIRMED IN PART, REVERSED IN PART.
+12-135->Adjudged to be AFFIRMED.
+12-62->Judgment REVERSED and case REMANDED.
+12-123->Judgment REVERSED and case REMANDED.
+12-694->Judgment REVERSED and case REMANDED.
+11-1221->Adjudged to be AFFIRMED.
+12-207->Judgment REVERSED.
+11-10189->Judgment VACATED and case REMANDED.
+12-126->Judgment VACATED and case REMANDED.
+12-236->Adjudged to be AFFIRMED.
+12-547->Judgment REVERSED.
+12-43->Judgment REVERSED.
+11-1545->Verizon Wireless DENIED.
+11-796->Adjudged to be AFFIRMED.
+11-1518->Judgment VACATED and case REMANDED.
+12-52->Adjudged to be AFFIRMED.
+11-9953->Writ of certiorari DISMISSED as improvidently granted Justice Alito, with whom Justice Scalia and Justice Thomas join, concurring.
+12-17->Adjudged to be AFFIRMED Alito, J.
+11-702->Judgment REVERSED and case REMANDED.
+11-1425->Adjudged to be AFFIRMED.
+10-1491->Adjudged to be AFFIRMED.
+11-1285->Judgment VACATED and case REMANDED.
+11-1059->Judgment REVERSED.
+12-382->Judgment REVERSED and case REMANDED.
+11-10362->Judgment REVERSED and case REMANDED.
+11-864->Judgment REVERSED.
+11-564->Adjudged to be AFFIRMED.
+12-98->Adjudged to be AFFIRMED.
+11-338->Judgment REVERSED and case REMANDED.
+11-1450->Judgment VACATED and case REMANDED.
+11-697->Judgment REVERSED and case REMANDED.
+11-1351->Judgment REVERSED and case REMANDED.
+11-1085->Adjudged to be AFFIRMED.
+11-1274->Judgment REVERSED and case REMANDED.
+11-1025->Judgment REVERSED and case REMANDED.
+11-1175->Adjudged to be AFFIRMED.
+11-820->Adjudged to be AFFIRMED.
+11-1327->Judgment REVERSED.
+11-465->Judgment REVERSED and case REMANDED.
+11-9307->Judgment REVERSED and case REMANDED.
+11-1118->Judgment REVERSED and case REMANDED.
+11-817->Judgment REVERSED.
+11-1160->Judgment REVERSED and case REMANDED.
+11-770->Judgment REVERSED and case REMANDED.
+11-1347->Motion for divided argument filed by respondent DENIED.
+11-1231->Judgment REVERSED and case REMANDED.
+11-626->Judgment REVERSED.
+11-8976->Adjudged to be AFFIRMED.
+11-982->Adjudged to be AFFIRMED.
+11-460->Judgment REVERSED and case REMANDED.
+10-930->Judgment REVERSED.
+11-184->Judgment REVERSED and case REMANDED Kagan, J.
+11-597->Judgment REVERSED and case REMANDED.
+11-1377->Judgment VACATED and case REMANDED.
+11-192->Judgment VACATED and case REMANDED.
+12-168->Judgment VACATED and case REMANDED.
+11-1184->Judgment REVERSED and case REMANDED.
+10-708->Writ of certiorari DISMISSED as improvidently granted.
+11-210->Adjudged to be AFFIRMED.
+11-393->Motion for leave to intervene filed by Freedom Watch DENIED.
+11-1179->Judgment REVERSED Justice Breyer filed a dissenting opinion.
+10-9646->Judgment REVERSED and case REMANDED.
+11-182->Adjudged to be AFFIRMED IN PART, REVERSED IN PART, and case REMANDED.
+11-94->Judgment REVERSED and case REMANDED.
+10-1121->Judgment REVERSED and case REMANDED.
+11-5683->Motion of petitioners for divided argument DENIED.
+10-1293->Judgment VACATED and case REMANDED.
+11-246->None
+11-551->Adjudged to be AFFIRMED Sotomayor, J.
+11-204->Adjudged to be AFFIRMED Alito, J.
+10-8505->Adjudged to be AFFIRMED Alito, J.
+11-845->Judgment REVERSED and case REMANDED.
+11-45->Adjudged to be AFFIRMED.
+11-161->Adjudged to be AFFIRMED.
+11-262->Judgment REVERSED and case REMANDED.
+11-1053->Judgment REVERSED and case REMANDED.
+11-166->Adjudged to be AFFIRMED.
+10-1042->Adjudged to be AFFIRMED.
+10-1320->Adjudged to be AFFIRMED.
+10-1542->Judgment REVERSED and case REMANDED.
+10-1472->Judgment VACATED and case REMANDED.
+11-159->Judgment REVERSED and case REMANDED.
+10-875->Adjudged to be AFFIRMED.
+11-139->Adjudged to be AFFIRMED.
+10-9995->Judgment REVERSED and case REMANDED.
+11-88->Adjudged to be AFFIRMED.
+10-1219->None
+10-844->Judgment REVERSED and case REMANDED.
+10-1018->Judgment REVERSED.
+11-199->Writ of certiorari DISMISSED as improvidently granted.
+10-788->Motion of the Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+10-945->Motion for divided argument filed by respondents DENIED.
+10-1024->Judgment REVERSED and case REMANDED Alito, J.
+10-1211->Judgment REVERSED and case REMANDED.
+10-7387->Adjudged to be AFFIRMED.
+10-1261->Judgment VACATED and case REMANDED.
+10-699->Judgment VACATED and case REMANDED.
+10-209->Judgment VACATED and case REMANDED.
+10-444->Judgment VACATED and case REMANDED.
+10-1062->Judgment REVERSED and case REMANDED.
+10-1399->Adjudged to be AFFIRMED.
+10-1150->Judgment REVERSED.
+10-1016->Adjudged to be AFFIRMED.
+10-1001->Judgment REVERSED and case REMANDED.
+10-1265->Judgment REVERSED and case REMANDED.
+10-879->Adjudged to be AFFIRMED.
+09-958->Judgment VACATED and case REMANDED.
+10-218->Judgment REVERSED and case REMANDED.
+10-704->Judgment REVERSED.
+11-391->Judgment VACATED and case REMANDED.
+11-38->Judgment VACATED and case REMANDED Justice Breyer, with whom Justice Ginsburg and Justice Kagan join, dissenting.
+10-680->Judgment REVERSED.
+10-577->Adjudged to be AFFIRMED.
+11-208->The petition for certiorari is GRANTED, the judgment of the Ninth Circuit is REVERSED, and the case is REMANDED for the entry of judgment in favor of petitioners.
+10-224->Judgment REVERSED and case REMANDED.
+10-6549->Judgment REVERSED and case REMANDED.
+10-1259->Adjudged to be AFFIRMED.
+11-713->Judgment VACATED and case REMANDED Thomas, J.
+10-1195->Judgment REVERSED and case REMANDED.
+10-545->Adjudged to be AFFIRMED.
+10-63->Judgment REVERSED and case REMANDED.
+10-8974->Adjudged to be AFFIRMED.
+10-507->None
+10-553->Judgment REVERSED.
+10-895->Adjudged to be AFFIRMED.
+10-1104->Judgment REVERSED.
+10-948->Judgment REVERSED and case REMANDED.
+10-8145->Judgment REVERSED and case REMANDED.
+11-74->Judgment REVERSED.
+10-694->Judgment REVERSED and case REMANDED.
+10-637->Adjudged to be AFFIRMED.
+10-1540->Judgment REVERSED and case REMANDED.
+10-1521->Judgment VACATED and case REMANDED.
+10-1115->Judgment REVERSED and case REMANDED Justice Ginsburg filed a dissenting opinion in which Justice Breyer and Justice Sotomayor join.
+11-5001->None
+09-940->Judgment VACATED and case REMANDED with instructions to dismiss the appeal.
+10-76->Judgment REVERSED.
+09-1343->Judgment REVERSED.
+08-1448->Adjudged to be AFFIRMED.
+10-238->Motion for divided argument filed by petitioners DENIED.
+10-235->Adjudged to be AFFIRMED.
+09-10876->Judgment REVERSED and case REMANDED.
+09-993->Judgment REVERSED and case REMANDED.
+10-779->Motion for divided argument filed by respondents DENIED.
+09-10245->Judgment REVERSED and case REMANDED.
+10-179->Adjudged to be AFFIRMED.
+10-10->Motion to appoint counsel filed by respondents DENIED.
+10-174->Judgment REVERSED and case REMANDED.
+09-1476->Judgment VACATED and case REMANDED.
+10-277->Judgment REVERSED Scalia, J.
+10-5400->Judgment REVERSED and case REMANDED.
+09-1205->Judgment REVERSED.
+09-11121->Judgment REVERSED and case REMANDED.
+09-11328->Adjudged to be AFFIRMED.
+09-1227->Judgment REVERSED and case REMANDED.
+09-5801->Adjudged to be AFFIRMED by an equally divided Court.
+10-382->Judgment REVERSED and case REMANDED.
+09-525->Judgment REVERSED.
+10-568->Motion of The Nevada Legislature for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+10-290->Adjudged to be AFFIRMED.
+09-1533->Adjudged to be AFFIRMED.
+10-313->Judgment REVERSED.
+09-11311->Adjudged to be AFFIRMED.
+10-114->Judgment VACATED and case REMANDED.
+10-5258->Adjudged to be AFFIRMED.
+09-1403->Judgment VACATED and case REMANDED.
+09-1159->Adjudged to be AFFIRMED.
+10-6->Adjudged to be AFFIRMED.
+10-98->Judgment REVERSED and case REMANDED.
+09-1454->Adjudged to be VACATED IN PART, and case REMANDED.
+10-5443->Judgment VACATED and case REMANDED.
+09-1498->Adjudged to be AFFIRMED.
+09-115->Adjudged to be AFFIRMED.
+09-1233->Motion of appellees for divided argument DENIED.
+09-1298->Judgment VACATED and case REMANDED Scalia, J.
+09-1272->Motion to dismiss the writ of certiorari as improvidently granted DENIED.
+09-804->Judgment VACATED and case REMANDED.
+10-188->Judgment REVERSED and case REMANDED.
+10-1000->Judgment REVERSED.
+137, Orig.->None
+09-893->Judgment REVERSED and case REMANDED.
+09-846->Judgment REVERSED and case REMANDED.
+08-1438->Motion for leave to proceed further herein in forma pauperis DENIED.
+09-529->Judgment REVERSED and case REMANDED.
+09-1088->Judgment REVERSED.
+09-987->Motion for divided argument filed by petitioner Arizona Christian School Tuition Organization DENIED.
+09-11556->Writ of certiorari DISMISSED as improvidently granted.
+09-1273->Judgment REVERSED.
+09-571->Motion of Former Federal Civil Rights Officials and Prosecutors for leave to participate in oral argument as amici curiae and for divided argument DENIED.
+09-1156->Adjudged to be AFFIRMED.
+09-834->Judgment VACATED and case REMANDED.
+10-797->Judgment REVERSED and case REMANDED.
+09-1163->Judgment REVERSED and case REMANDED.
+09-868->Adjudged to be AFFIRMED.
+09-9000->Judgment REVERSED and case REMANDED.
+09-6822->Adjudged to be VACATED IN PART, AFFIRMED IN PART and case REMANDED.
+09-751->Adjudged to be AFFIRMED.
+09-1036->Judgment REVERSED and case REMANDED.
+09-400->Judgment REVERSED and case REMANDED.
+09-1279->Judgment REVERSED.
+09-150->Friedman for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+08-1314->Judgment REVERSED.
+09-996->Judgment REVERSED.
+09-520->Judgment REVERSED and case REMANDED.
+09-152->Adjudged to be AFFIRMED.
+10-333->Judgment REVERSED.
+09-329->Judgment REVERSED and case REMANDED.
+09-737->Judgment REVERSED and case REMANDED.
+09-291->Judgment REVERSED and case REMANDED.
+09-530->Judgment REVERSED and case REMANDED Alito, J.
+09-658->Judgment REVERSED and case REMANDED.
+09-587->Judgment REVERSED and case REMANDED Kennedy, J.
+09-907->Adjudged to be AFFIRMED.
+09-837->Adjudged to be AFFIRMED.
+10-72->Judgment VACATED and case REMANDED.
+08-1423->Adjudged to be AFFIRMED by an equally divided Court.
+09-350->Judgment REVERSED and case REMANDED.
+09-479->Adjudged to be AFFIRMED.
+10-91->Judgment VACATED and case REMANDED.
+09-8854->None
+08-1521->Judgment REVERSED and case REMANDED.
+08-1371->None
+08-964->Adjudged to be AFFIRMED.
+08-861->Adjudged to be AFFIRMED IN PART, REVERSED IN PART, and case REMANDED.
+08-1196->Motion to modify the Question Presented DENIED.
+08-876->Judgment VACATED and case REMANDED.
+08-1394->Adjudged to be AFFIRMED IN PART, VACATED IN PART, and case REMANDED.
+09-158->Judgment REVERSED and case REMANDED.
+08-1214->Adjudged to be REVERSED IN PART, AFFIRMED IN PART, AND REMANDED.
+08-1191->Adjudged to be AFFIRMED.
+09-559->Motion for divided argument filed by respondent DENIED.
+09-475->Judgment REVERSED and case REMANDED.
+08-1553->Judgment REVERSED and case REMANDED.
+09-497->Judgment REVERSED.
+08-1498->Adjudged to be AFFIRMED IN PART, REVERSED IN PART, and case REMANDED.
+09-6338->Adjudged to be AFFIRMED.
+08-538->Judgment REVERSED and case REMANDED.
+08-1332->Judgment REVERSED and case REMANDED.
+08-1151->Adjudged to be AFFIRMED.
+08-1457->Motion to file a supplemental brief after argument filed by Michigan Regional Council of Carpenters DENIED.
+09-5327->Judgment REVERSED and case REMANDED.
+09-367->Adjudged to be AFFIRMED.
+08-1322->Judgment REVERSED and case REMANDED.
+09-60->Judgment REVERSED.
+09-940->Judgment VACATED and case REMANDED with instructions to dismiss the appeal.
+09-337->Judgment REVERSED and case REMANDED Sotomayor, J.
+08-998->Adjudged to be AFFIRMED Alito, J.
+09-5201->Adjudged to be AFFIRMED Breyer, J.
+08-1301->Judgment REVERSED and case REMANDED.
+09-223->Judgment REVERSED and case REMANDED.
+08-1470->Judgment REVERSED and case REMANDED.
+132, Orig.->None
+08-1555->None
+09-8852->Judgment VACATED and case REMANDED Justice Scalia filed a dissenting opinion joined by Justice Thomas.
+08-6261->Writ of certiorari DISMISSED as improvidently granted.
+08-1341->Judgment REVERSED and case REMANDED.
+09-448->Judgment REVERSED and case REMANDED.
+08-1569->Motion for divided argument filed by respondents DENIED.
+08-974->Judgment REVERSED and case REMANDED.
+08-661->Judgment REVERSED and case REMANDED.
+08-7621->Writ of certiorari DISMISSED as improvidently granted.
+08-1224->Judgment REVERSED and case REMANDED.
+08-7412->Judgment REVERSED and case REMANDED.
+08-645->Judgment REVERSED and case REMANDED.
+08-1529->Judgment REVERSED and case REMANDED.
+09-338->Judgment REVERSED and case REMANDED.
+08-472->Judgment REVERSED and case REMANDED.
+08-1198->Judgment REVERSED and case REMANDED.
+08-905->Adjudged to be AFFIRMED.
+08-1200->Judgment REVERSED and case REMANDED Sotomayor, J.
+08-970->Judgment REVERSED and case REMANDED.
+08-810->Judgment REVERSED and case REMANDED.
+08-769->Adjudged to be AFFIRMED.
+08-1008->Judgment REVERSED and case REMANDED.
+08-651->Judgment REVERSED and case REMANDED.
+08-586->Judgment VACATED and case REMANDED.
+08-1402->Judgment REVERSED and case REMANDED.
+08-304->Judgment REVERSED and case REMANDED.
+08-1134->Adjudged to be AFFIRMED.
+08-680->Judgment REVERSED and case REMANDED.
+08-1107->Judgment VACATED and case REMANDED.
+08-1175->Judgment REVERSED and case REMANDED.
+09-273->The judgment is REVERSED, and the case is REMANDED for further proceedings consistent with this opinion.
+08-10914->The judgment of the Court of Appeals is REVERSED, and the case is REMANDED for further proceedings consistent with this opinion.
+07-11191->Judgment VACATED and case REMANDED.
+08-969->Judgment REVERSED and case REMANDED.
+08-205->Adjudged to be AFFIRMED IN PART, REVERSED IN PART, and case REMANDED.
+08-9156->Adjudged to be AFFIRMED.
+138, Orig.->None
+08-911->Judgment REVERSED and case REMANDED.
+09-5731->Judgment VACATED and case REMANDED for further consideration in light of Cone v.
+09-5270->Judgment REVERSED and case REMANDED.
+09A648->None
+08-674->Adjudged to be REVERSED IN PART and case REMANDED.
+08-724->Judgment REVERSED.
+08-559->Judgment REVERSED and case REMANDED Justice Thomas filed a concurring opinion in which Justice Scalia joins.
+08-678->Adjudged to be AFFIRMED.
+08-351->Judgment VACATED and case REMANDED.
+08-604->Adjudged to be AFFIRMED.
+08-992->Judgment VACATED and case REMANDED.
+09-91->The judgment of the Michigan Court of Appeals is REVERSED, and the case is REMANDED for further proceedings not inconsistent with this opinion.
+09-144->Judgment REVERSED and case REMANDED Justice Alito filed a concurring opinion.
+08-10537->Judgment REVERSED and case REMANDED.
+08-1263->Judgment REVERSED and case REMANDED Justice Stevens concurring.
+08-10495->Judgment VACATED and case REMANDED.
+07-1428->Judgment REVERSED and case REMANDED.
+08-453->Adjudged to be AFFIRMED IN PART, REVERSED IN PART.
+08-289->Motion for divided argument filed by petitioners DENIED.
+08-214->None
+08-479->Adjudged to be AFFIRMED IN PART, REVERSED IN PART, and case REMANDED.
+07-591->Judgment REVERSED and case REMANDED.
+07-984->Judgment REVERSED and case REMANDED.
+08-305->Adjudged to be AFFIRMED.
+08-322->Judgment REVERSED and case REMANDED.
+08-441->Judgment VACATED and case REMANDED.
+08-295->Motion to dispense with printing the joint appendix filed by petitioners DENIED.
+08-67->Judgment REVERSED and case REMANDED.
+08-6->Judgment REVERSED and case REMANDED.
+08-495->Adjudged to be AFFIRMED.
+08-310->Judgment REVERSED and case REMANDED.
+08-192->Judgment REVERSED and case REMANDED.
+07-10374->Judgment REVERSED and case REMANDED.
+07-1529->Motion for divided argument filed by respondent DENIED.
+07-543->Judgment REVERSED.
+07-1015->Judgment REVERSED and case REMANDED.
+07-1356->Judgment REVERSED and case REMANDED.
+08-5274->Adjudged to be AFFIRMED.
+07-582->Judgment REVERSED and case REMANDED.
+07-1114->Judgment VACATED and case REMANDED.
+08-681->Judgment VACATED and case REMANDED.
+07-1209->Judgment REVERSED and REMANDED in Eric K.
+07-615->Judgment REVERSED.
+07-542->Adjudged to be AFFIRMED.
+07-1216->Writ of certiorari DISMISSED as improvidently granted.
+07-1372->Judgment REVERSED and case REMANDED.
+07-9995->Adjudged to be AFFIRMED.
+07-9712->Adjudged to be AFFIRMED.
+07-1315->Judgment REVERSED and case REMANDED.
+07-665->Judgment REVERSED Alito, J.
+07-512->Judgment REVERSED and case REMANDED.
+07-608->Judgment REVERSED and case REMANDED.
+07-526->Motion for divided argument filed by petitioner DENIED.
+07-869->Judgment REVERSED.
+08-5657->Judgment REVERSED and case REMANDED.
+07-854->Judgment REVERSED and case REMANDED.
+07-1122->Judgment REVERSED and case REMANDED.
+07-1059->Judgment REVERSED and case REMANDED.
+07-636->Adjudged to be AFFIRMED.
+06-1595->Judgment REVERSED and case REMANDED.
+08-5721->The judgment of the Court of Appeals is REVERSED, and the case is REMANDED for further proceedings consistent with this opinion.
+07-1125->Judgment REVERSED and case REMANDED.
+07-751->Judgment REVERSED.
+07-610->Motion of the Acting Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+07-772->Judgment REVERSED and case REMANDED.
+07-901->Judgment REVERSED and case REMANDED.
+07-513->Adjudged to be AFFIRMED.
+06-11206->Judgment REVERSED and case REMANDED.
+07-6984->Judgment REVERSED and case REMANDED.
+07-562->None
+07-544->Judgment VACATED and case REMANDED for further proceedings consistent with this opinion.
+07-1223->Writ of certiorari DISMISSED as improvidently granted.
+07-1239->None
+08A332->None
+07-10689->The judgment of the Court of Appeals is REVERSED, and the case is REMANDED for further proceedings consistent with this opinion.
+06-984->Adjudged to be AFFIRMED.
+07-320->Judgment REVERSED and case REMANDED.
+07-290->Adjudged to be AFFIRMED.
+06-1457->Motion disqualification of counsel DENIED.
+07-219->Motion of Alaska for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+07-343->Judgment REVERSED and case REMANDED.
+07-6053->Judgment VACATED and case REMANDED.
+07-411->Judgment REVERSED.
+07-552->Adjudged to be AFFIRMED.
+07-330->Judgment VACATED and case REMANDED.
+07-440->Judgment VACATED and case REMANDED.
+07-208->Judgment VACATED and case REMANDED.
+06-1037->Judgment REVERSED.
+06-923->Motion for leave to intervene filed by Barry Schmittou DENIED.
+06-1505->Judgment VACATED and case REMANDED.
+06-939->Judgment REVERSED and case REMANDED.
+07-312->Judgment REVERSED and case REMANDED.
+06-1181->Judgment REVERSED and case REMANDED.
+07-371->Judgment VACATED and case REMANDED.
+06-1204->Motion to set a deadline for submission of an amicus brief by the Solicitor General DENIED.
+06-1195->Petition DENIED.
+06-7517->Adjudged to be AFFIRMED.
+06-1666->Judgment VACATED and case REMANDED.
+07-214->Judgment VACATED and case REMANDED.
+07-210->Adjudged to be AFFIRMED.
+06-937->Judgment REVERSED.
+07-474->Adjudged to be AFFIRMED.
+06-1717->Judgment REVERSED and case REMANDED.
+06-1456->Judgment REVERSED.
+06-1005->Adjudged to be AFFIRMED.
+06-1321->Judgment REVERSED and case REMANDED.
+06-1431->Adjudged to be AFFIRMED.
+07-77->Judgment REVERSED and case REMANDED.
+06-1646->Judgment REVERSED and case REMANDED.
+06-666->Judgment REVERSED and case REMANDED.
+06-694->Judgment REVERSED.
+07-455->Judgment REVERSED.
+06-11612->Adjudged to be AFFIRMED.
+07-21->Adjudged to be AFFIRMED Stevens, J.
+06-1082->Motion of American Bar Association for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+06-11543->Judgment REVERSED and case REMANDED.
+06-11429->Adjudged to be AFFIRMED.
+07-5439->Adjudged to be AFFIRMED.
+06-1413->Judgment VACATED and case REMANDED.
+07-308->Judgment REVERSED.
+134, Orig.->None
+06-989->Judgment VACATED and case REMANDED.
+06-984->Adjudged to be AFFIRMED.
+06-10119->Judgment REVERSED and case REMANDED.
+06-713->Motion for divided argument filed by petitioners DENIED.
+06-1498->Adjudged to be AFFIRMED.
+06-1509->Judgment VACATED and case REMANDED.
+06-1322->Adjudged to be AFFIRMED.
+06-1221->Judgment VACATED and case REMANDED.
+06-457->Adjudged to be AFFIRMED.
+06-1463->Judgment REVERSED and case REMANDED.
+06-179->Adjudged to be AFFIRMED.
+06-8273->Judgment REVERSED and case REMANDED.
+06-856->Judgment VACATED and case REMANDED.
+06-9130->Adjudged to be AFFIRMED Thomas, J.
+06-766->William Van Allen DENIED.
+06-1286->Adjudged to be AFFIRMED.
+06-43->None
+06-1164->Adjudged to be AFFIRMED.
+07-212->Judgment REVERSED and case REMANDED.
+07-110->Judgment VACATED and case REMANDED.
+06-6330->Judgment REVERSED and case REMANDED.
+06-571->Judgment REVERSED and case REMANDED.
+06-7949->Judgment REVERSED.
+06-6911->Adjudged to be AFFIRMED.
+06-1287->Judgment REVERSED.
+06-1680->Petition GRANTED, Judgment REVERSED and case REMANDED.
+06-637->Adjudged to be AFFIRMED by an equally divided Court.
+06-6407->Judgment REVERSED and case REMANDED.
+06-480->Motion of Consumer Federation of America for leave to participate in oral argument as amicus curiae and for additional time for oral argument DENIED.
+05-908->Judgment REVERSED and case REMANDED.
+06-340->Motion for divided argument filed by petitioner DENIED.
+06-157->Judgment REVERSED.
+06-219->Judgment REVERSED and case REMANDED.
+06-969->Adjudged to be AFFIRMED.
+06-278->Judgment REVERSED and case REMANDED.
+06-5754->Adjudged to be AFFIRMED.
+06-484->Judgment VACATED and case REMANDED.
+06-427->Motion of Association of Christian Schools International for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+05-1157->Motion for divided argument filed by respondent DENIED.
+06-8120->Judgment VACATED and case REMANDED.
+05-85->Adjudged to be VACATED IN PART, and case REMANDED.
+06-5306->Adjudged to be AFFIRMED.
+06-134->None
+05-1589->Motion for divided argument and for additional time for oral argument filed by petitioners DENIED.
+06-593->Judgment REVERSED and case REMANDED.
+05-1284->Judgment REVERSED and case REMANDED.
+06-562->Adjudged to be AFFIRMED.
+06-5247->Adjudged to be AFFIRMED.
+05-1448->Judgment REVERSED and case REMANDED.
+06-7317->Judgment VACATED and case REMANDED Justice Scalia would deny the petition for certiorari.
+06-5618->None
+06-531->Judgment REVERSED and case REMANDED.
+06-84->Judgment REVERSED and case REMANDED.
+06-413->Judgment REVERSED and case REMANDED.
+05-1074->Adjudged to be AFFIRMED.
+06-605->Judgment REVERSED and case REMANDED Justice Stevens filed a concurring opinion joined by Justice Ginsburg.
+06-313->Writ of certiorari DISMISSED as improvidently granted.
+05-1126->Motion for divided argument filed by respondent DENIED.
+05-983->Judgment REVERSED and case REMANDED.
+06-618->None
+06-376->Adjudged to be AFFIRMED.
+05-1575->Judgment REVERSED and case REMANDED Thomas, J.
+05-1056->Judgment REVERSED.
+05-1541->Adjudged to be AFFIRMED.
+04-1350->Judgment REVERSED and case REMANDED.
+05-1631->Judgment REVERSED.
+05-1345->Adjudged to be AFFIRMED.
+05-11304->Judgment REVERSED and case REMANDED.
+05-11287->Judgment REVERSED.
+05-11284->Judgment REVERSED and case REMANDED.
+05-9264->Adjudged to be AFFIRMED.
+05-380->Motion for leave to file amicus brief filed by Legal Defense for Unborn Children DENIED.
+05-1508->Adjudged to be AFFIRMED.
+05-705->Adjudged to be AFFIRMED.
+05-1342->Adjudged to be AFFIRMED.
+05-848->Judgment VACATED and case REMANDED.
+05-1120->Judgment REVERSED and case REMANDED.
+06-116->Judgment REVERSED and case REMANDED.
+05-1272->Judgment REVERSED.
+05-1429->Judgment VACATED and case REMANDED Alito, J.
+06-641->Adjudged to be VACATED IN PART, and case REMANDED with instructions to dismiss the Elections Clause claim for lack of standing.
+06-102->Judgment REVERSED and case REMANDED.
+05-595->Judgment REVERSED and case REMANDED.
+05-1240->Adjudged to be AFFIRMED.
+05-996->Motion of National Association of Consumer Bankruptcy Attorneys for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+05-1256->Judgment VACATED and case REMANDED.
+05-8820->Adjudged to be AFFIRMED.
+05-381->Judgment VACATED and case REMANDED.
+05-6551->Judgment REVERSED IN PART AND REMANDED.
+05-593->Adjudged to be AFFIRMED Ginsburg, J.
+05-7058->Judgment REVERSED and case REMANDED Roberts, C.
+05-1629->Judgment VACATED and case REMANDED.
+05-746->Judgment VACATED and case REMANDED.
+05-9222->Judgment VACATED and case REMANDED.
+05-608->Judgment REVERSED and case REMANDED.
+05-998->Judgment REVERSED and case REMANDED.
+05-669->Adjudged to be AFFIRMED Alito, J.
+05-785->Judgment VACATED and case REMANDED Thomas, J.
+05-7664->Writ of certiorari DISMISSED as improvidently granted.
+05-547->Judgment REVERSED and case REMANDED.
+05-493->Judgment REVERSED and case REMANDED Kennedy, J.
+06A375->None
+05-5966->Adjudged to be AFFIRMED.
+05-184->Motion of petitioner for an order directing the parties to submit supplemental briefing is DENIED.
+04-1739->Judgment REVERSED and case REMANDED.
+05-204->Adjudged to be AFFIRMED IN PART, REVERSED IN PART, VACATED IN PART, and case REMANDED.
+04-10566->Adjudged to be AFFIRMED.
+05-18->Judgment REVERSED and case REMANDED.
+04-1528->Motion for divided argument filed by petitioners DENIED.
+05-83->Judgment REVERSED and case REMANDED.
+04-1170->Judgment REVERSED and case REMANDED.
+05-352->None
+04-607->Writ of certiorari DISMISSED as improvidently granted.
+05-416->Judgment REVERSED and case REMANDED.
+05-259->Adjudged to be AFFIRMED.
+04-1376->Adjudged to be AFFIRMED.
+05-7053->Adjudged to be AFFIRMED.
+05-6997->Judgment VACATED and case REMANDED.
+04-9728->Adjudged to be AFFIRMED.
+05-5224->Adjudged to be AFFIRMED.
+04-1034->Carr PhD DENIED.
+05-200->Cruz for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+05-128->Judgment REVERSED and case REMANDED.
+05-409->Judgment VACATED and case REMANDED.
+04-1360->Adjudged to be AFFIRMED.
+05-8794->Judgment REVERSED and case REMANDED.
+04-8990->Judgment REVERSED and case REMANDED.
+05-465->Writ of certiorari DISMISSED as improvidently granted.
+04-1131->Motion of National Treasury Employees Union for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+05-5992->Judgment REVERSED and case REMANDED.
+04-433->Adjudged to be REVERSED IN PART, VACATED IN PART, and case REMANDED.
+04-473->Motion for leave to file amicus brief out of tme filed by Elaine Mittleman DENIED.
+05-502->Motion of National Association of Criminal Defense Lawyer for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+05-130->Judgment VACATED and case REMANDED.
+04-1527->Adjudged to be AFFIRMED.
+05-260->Adjudged to be AFFIRMED IN RELEVANT PART.
+04-1704->Adjudged to be VACATED IN PART, and case REMANDED.
+04-1327->Judgment VACATED and case REMANDED.
+04-1544->Judgment REVERSED and case REMANDED.
+04-1506->Adjudged to be AFFIRMED.
+04-1495->Judgment REVERSED and case REMANDED.
+04-1477->Judgment REVERSED and case REMANDED.
+04-1324->Adjudged to be AFFIRMED.
+04-1618->Judgment REVERSED.
+05-8400->Judgment VACATED and case REMANDED.
+05-552->Judgment VACATED and case REMANDED.
+08, Orig.->None
+04-1067->Motion of National Association of Criminal Defense Lawyers for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+04-1414->Judgment REVERSED and case REMANDED.
+04-1371->Judgment VACATED and case REMANDED.
+04-1244->Judgment REVERSED and case REMANDED.
+04-805->Motion for divided argument filed by respondents DENIED.
+04-928->Judgment VACATED and case REMANDED.
+04-944->Motion of Alabama for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+04-848->Judgment REVERSED and case REMANDED.
+04-593->Judgment REVERSED.
+05-555->Judgment VACATED and case REMANDED Justice Ginsburg filed a concurring opinion joined by Justice Souter.
+05-379->Judgment VACATED and case REMANDED.
+04-1095->Judgment VACATED and case REMANDED.
+04-1264->Judgment REVERSED and case REMANDED.
+04-1084->None
+128, Orig.->None
+04-1581->Judgment VACATED and case REMANDED.
+04-597->Motion to strike brief filed by petitioner DENIED.
+04-885->Adjudged to be AFFIRMED Stevens, J.
+04-1332->Judgment VACATED and case REMANDED Souter, J.
+04-52->Judgment REVERSED and case REMANDED Kennedy, J.
+04-1144->Motion to allow Counsel to represent Children Unborn and Born ALive DENIED.
+04-1186->Judgment REVERSED and case REMANDED Ginsburg, J.
+04-623->Motion for additional time to argue and for divided argument by respondent DENIED.
+04-980->Judgment REVERSED and case REMANDED Scalia, J.
+04-721->Judgment REVERSED and case REMANDED Breyer, J.
+04-905->Judgment REVERSED and case REMANDED Ginsburg, J.
+04-1203->Judgment REVERSED and case REMANDED Scalia, J.
+04-881->None
+04-1140->Motion of the Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+04-631->Judgment REVERSED Thomas, J.
+04-759->Judgment VACATED and case REMANDED Breyer, J.
+03-1238->Adjudged to be AFFIRMED Stevens, J.
+04-712->Judgment REVERSED and case REMANDED  Ginsburg, J.
+05-101->Judgment VACATED and case REMANDED.
+04-373->Motion of National Association of Criminal Defense Lawyers for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+04-698->None
+04-9949->Judgment REVERSED and case REMANDED.
+04-1538->Judgment REVERSED and case REMANDED.
+04-1475->Judgment VACATED and case REMANDED.
+04-8384->Judgment REVERSED.
+04-277->Judgment REVERSED and case REMANDED.
+04-480->Judgment VACATED and case REMANDED.
+03-1693->Adjudged to be AFFIRMED.
+04-514->Judgment REVERSED.
+04-278->Judgment REVERSED.
+03-1500->Adjudged to be AFFIRMED.
+04-563->Judgment REVERSED and case REMANDED.
+03-10198->Motion to file a second supplemental brief after argument filed by petitioner DENIED.
+03-1566->Adjudged to be AFFIRMED.
+04-70->Motion of the Acting Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+04-6432->Adjudged to be AFFIRMED.
+04-108->Motion of Connecticut for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+03-1234->Adjudged to be AFFIRMED.
+03-1230->Adjudged to be AFFIRMED.
+04-169->Judgment REVERSED and case REMANDED.
+04-5462->Judgment REVERSED.
+04-5286->Adjudged to be AFFIRMED.
+04-340->Adjudged to be AFFIRMED.
+04-603->Adjudged to be AFFIRMED.
+03-9659->Judgment REVERSED and case REMANDED Souter, J.
+04-495->Adjudged to be AFFIRMED IN PART, REVERSED IN PART, and case REMANDED.
+03-1237->Judgment VACATED and case REMANDED Scalia, J.
+04-637->Adjudged to be REVERSED IN PART, VACATED IN PART, and case REMANDED.
+04-6964->Judgment REVERSED and case REMANDED Stevens, J.
+03-1388->Judgment REVERSED and case REMANDED Kennedy, J.
+128,Orig->None
+03-1454->Motion for leave to file amicus brief filed by Drug Watch International DENIED.
+03-1488->Judgment VACATED and case REMANDED Breyer, J.
+03-9877->Judgment REVERSED and case REMANDED.
+04-368->Judgment REVERSED and case REMANDED Rehnquist, C.
+04-5928->Writ of certiorari DISMISSED as improvidently granted.
+04-5293->Judgment REVERSED and case REMANDED Breyer, J.
+04-37->Judgment REVERSED and case REMANDED.
+03-1164->Judgment VACATED and case REMANDED.
+04-163->Judgment REVERSED and case REMANDED.
+03-1116->Motion for realignment of the parties and to set a briefing schedule DENIED.
+03-388->Judgment VACATED and case REMANDED.
+03-9627->Adjudged to be AFFIRMED.
+03-750->Judgment REVERSED and case REMANDED Breyer, J.
+03-725->Motion for divided argument filed by petitioner DENIED.
+03-932->Judgment REVERSED and case REMANDED   Breyer, J.
+03-1407->Judgment REVERSED and case REMANDED  Thomas, J.
+03-9685->Adjudged to be AFFIRMED  Souter, J.
+03-1696->Judgment REVERSED and case REMANDED  Ginsburg, J.
+03-9046->Motion for excess compensation DENIED.
+03-1160->Adjudged to be AFFIRMED    Stevens, J.
+03-855->Judgment REVERSED and case REMANDED  Ginsburg, J.
+02-1672->Motion to file a supplemental brief after argument filed by respondent DENIED.
+03-1039->Judgment REVERSED   Kennedy, J.
+03-1601->Judgment REVERSED and case REMANDED  Scalia, J.
+03-1423->Judgment VACATED and case REMANDED   Rehnquist, C.
+03-287->Judgment is AFFIRMED and case REMANDED.
+03-184->Judgment REVERSED and case REMANDED.
+03-9168->Judgment REVERSED and case REMANDED.
+03-1395->Judgment REVERSED Rehnquist, C.
+02-1472->Judgment REVERSED and case REMANDED.
+03-633->Adjudged to be AFFIRMED Kennedy, J.
+03-636->Judgment REVERSED and case REMANDED.
+03-814->Motion for leave to file surreply brief DENIED.
+03-8661->Judgment REVERSED and case REMANDED.
+04-394->Judgment REVERSED and case REMANDED Concurring opinion by Justice Ginsburg with whom Justice Souter and Justice Breyer join.
+03-9560->Motion to appoint counsel filed by Andre de Gruy DENIED.
+03-892->Judgment REVERSED and case REMANDED.
+03-923->Judgment VACATED and case REMANDED.
+03-878->Judgment is AFFIRMED and case REMANDED.
+03-674->Adjudged to be AFFIRMED.
+04-104->Motion of Ad Hoc Group of Former Federal Judges for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+03-1293->Rehearing DENIED.
+03-1261->Judgment REVERSED and case REMANDED.
+03-931->Judgment REVERSED and case REMANDED Ginsburg, J.
+02-1192->Judgment REVERSED and case REMANDED Thomas, J.
+03-710->Motion of National Association of Criminal Defense Lawyers for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+03-407->Judgment REVERSED and case REMANDED   Rehnquist, C.
+03-409->Judgment VACATED and case REMANDED Souter, J.
+105, Orig->None
+03-1669->None
+03-377->Judgment REVERSED and case REMANDED Ginsburg, J.
+04-5323->The Petition for writ of certiorari and the motion for leave to proceed in forma pauperis is GRANTED and the Judgment REVERSED and case REMANDED.
+02-1028->JUDGMENT REVERSED.
+03-583->Judgment REVERSED and case REMANDED.
+03-339->Judgment REVERSED.
+03-218->None
+03-1200->Judgment REVERSED and case REMANDED.
+02-1183->Judgment REVERSED and case REMANDED.
+02-1371->Adjudged to be AFFIRMED.
+03-6696->Judgment VACATED and case REMANDED.
+03-334->Judgment REVERSED and case REMANDED.
+03-1027->Motion for divided argument filed by respondent DENIED.
+02-1603->Motion for divided argument filed by petitioner DENIED.
+03-475->Judgment VACATED and case REMANDED.
+03-526->Judgment REVERSED and case REMANDED.
+02-1632->Judgment REVERSED and case REMANDED.
+02-10038->Judgment REVERSED and case REMANDED.
+02-572->Adjudged to be AFFIRMED.
+03-221->Motion of National Association of Criminal Defense Lawyers for leave to participate in oral argument as amicus curiae and for divided argument DENIED.
+02-1845->Judgment REVERSED and case REMANDED.
+03-5554->Adjudged to be AFFIRMED.
+03-724->Judgment VACATED and case REMANDED.
+03-95->Committee for Civil Rights Under Law to participate in oral argument as amicus curiae and for divided argument DENIED.
+02-1809->Adjudged to be AFFIRMED.
+03-167->Judgment REVERSED and case REMANDED.
+03-101->Judgment REVERSED and case REMANDED.
+02-1624->Motion for leave to participate in oral argument as amicus curiae and for additional time to present argument DENIED.
+02-1609->Motion for divided argument filed by petitioner DENIED.
+03-358->Judgment REVERSED and case REMANDED.
+02-891->Adjudged to be AFFIRMED.
+03-13->Adjudged to be AFFIRMED.
+02-1684->Judgment REVERSED.
+03-6821->Judgment REVERSED and case REMANDED.
+03-5165->Adjudged to be AFFIRMED.
+03-44->None
+02-1689->Judgment REVERSED.
+02-1667->Motion for leave to file amicus brief filed by Richard Stevens DENIED.
+02-1016->Judgment REVERSED and case REMANDED.
+02-1606->None
+03-1028->Judgment REVERSED and case REMANDED.
+03-6539->None
+02-1657->Judgment REVERSED and case REMANDED.
+02-1824->Judgment VACATED and case REMANDED.
+02-1205->Judgment REVERSED and case REMANDED.
+02-1580->Adjudged to be AFFIRMED.
+02-1343->Judgment VACATED and case REMANDED.
+02-857->Judgment REVERSED.
+03-107->Judgment REVERSED.
+02-1593->Judgment REVERSED and case REMANDED.
+02-954->Motion for leave to participate in oral argument as amici curiae and for divided argument DENIED.
+02-1794->Judgment REVERSED and case REMANDED.
+02-1238->Judgment REVERSED.
+02-1389->Judgment REVERSED and case REMANDED.
+02-626->Motion for divided argument filed by respondent DENIED.
+02-1541->Judgment REVERSED and case REMANDED.
+02-9410->Judgment REVERSED and case REMANDED.
+02-964->Judgment REVERSED.
+02-458->Judgment REVERSED and case REMANDED.
+02-9065->Judgment REVERSED and case REMANDED.
+02-1290->Judgment REVERSED.
+02-1315->Judgment REVERSED.
+02-8286->Judgment REVERSED and case REMANDED.
+02-1348->Motion for leave to file reply to brief amicus curiae of the United States DENIED.
+02-1377->Adjudged to be AFFIRMED.
+02-1080->Judgment REVERSED.
+02-811->Adjudged to be AFFIRMED.
+03-374->Judgment REVERSED Opinion concurring in the judgment by Justice Stevens.
+02-693->Adjudged to be AFFIRMED.
+02-6320->Judgment REVERSED and case REMANDED.
+02-658->Adjudged to be AFFIRMED.
+02-819->Adjudged to be AFFIRMED.
+02-628->Judgment REVERSED.
+02-1060->Judgment REVERSED.
+02-682->Judgment REVERSED and case REMANDED.
+02-1196->None
+02-6683->Judgment VACATED and case REMANDED.
+02-809->Judgment REVERSED and case REMANDED Rehnquist, C.
+02-1674->Motion for divided argument filed by petitioner DENIED.
+129, Orig.->None
+02-749->Judgment VACATED and case REMANDED.
+02-473->Judgment REVERSED.
+02-763->Judgment REVERSED.
+02-1369->Judgment REVERSED.
+02-1597->Judgment REVERSED.

@@ -8,16 +8,37 @@ from itertools import islice
 
 
 def scrape_search():
-    with open("data/search_scrapings.txt","a") as output_file:
-        opinion_table = pd.read_csv("data/table.csv")
-        startOfIndex = 350
-        for index, row in islice(opinion_table.iterrows(), startOfIndex, None):
-            result = "None"
-            docket_number = row["Docket"]
+    
+    opinion_table = pd.read_csv("data/table.csv")
+    with open('data/filename-to-docket.json') as json_file:
+        dockets = json.load(json_file)
+    
+    startOfIndex = 0
+    #for index, row in islice(opinion_table.iterrows(), startOfIndex, None):
+    for docknum in dockets.values():
+        result = "None"
+        docket_number = docknum
+        try:
+        
             try:
-                print(str(docket_number)+"->"+str(scrape_any(docket_number)))
+                with open("data/search_scrapings3.txt","a") as output_file:
+                    link = "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/" + str(docket_number) + ".html"
+                    if scrape_any(link) == None:
+                        link = "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/"+str(docket_number)+".htm"
+                        
+                    output_file.write(str(docket_number)+"->"+str(scrape_any(link))+"\n")
+                    output_file.close()
             except Exception as e:
-                print(e)
+                try:
+                    with open("data/search_scrapings3.txt","a") as output_file:
+                        link = "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/"+str(docket_number)+".htm"
+                        print(scrape_any(link))
+                        output_file.write(str(docket_number)+"->"+str(scrape_any(link))+"\n")
+                        output_file.close()
+                except Exception as d:
+                    pass
+        except Exception as e:
+            print(e)
             """
             try:
 
@@ -66,9 +87,9 @@ def scrape_new_format(docket_number):
     content = proceedings_body.text.strip()
     return result_scan(content)
 
-def scrape_any(docket_number):
+def scrape_any(link):
     time.sleep(0.3)
-    r = requests.get("https://www.supremecourt.gov/search.aspx?filename=/docketfiles/"+str(docket_number)+".htm")
+    r = requests.get(link)
     print(r)
     html = r.text
     soup = BeautifulSoup(r.content, features="lxml")
