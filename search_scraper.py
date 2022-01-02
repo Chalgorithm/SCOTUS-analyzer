@@ -18,25 +18,6 @@ def scrape_search():
                 print(str(docket_number)+"->"+str(scrape_any(docket_number)))
             except Exception as e:
                 print(e)
-            """
-            try:
-
-                
-                # result = scrape_old_format(docket_number)
-                # print(result)
-                result = scrape_new_format(docket_number)
-                print({docket_number:result})
-                output_file.write(docket_number +"->" +str(result)+"\n")
-            except Exception as e:
-                try:
-                    
-                    result = scrape_old_format(docket_number)
-                    print({docket_number:result})
-                    output_file.write(docket_number +"->"+str(result)+"\n")
-                except:
-                    print("can't get docket#")
-                print(e)
-            """
             
 
     #docket_number = "02-6683"
