@@ -40,57 +40,8 @@ def scrape_search():
         except Exception as e:
             print(e)
 
-<<<<<<< HEAD
-                
-                # result = scrape_old_format(docket_number)
-                # print(result)
-                result = scrape_new_format(docket_number)
-                print({docket_number:result})
-                output_file.write(docket_number +"->" +str(result)+"\n")
-            except Exception as e:
-                try:
-                    
-                    result = scrape_old_format(docket_number)
-                    print({docket_number:result})
-                    output_file.write(docket_number +"->"+str(result)+"\n")
-                except:
-                    print("can't get docket#")
-                print(e)
-            """
-            
-
-    #docket_number = "02-6683"
-    #new_docket_number = "19-897"
-    #scrape_new_format(new_docket_number)
-    
-    #scrape_old_format(docket_number)
-    
-
-def scrape_new_format(docket_number):
-    #get document
-    time.sleep(0.3)
-    r = requests.get("https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/" + str(docket_number) + ".html")
-    html = r.text
-    soup = BeautifulSoup(html, features="lxml")
-    proceedings_body = soup.find("table", id="proceedings")
-    '''
-    petition = proceedings_body.find('a', href=True, text="Petition", class_="documentanchor")
-    opinion = proceedings_body.find('a', href=True, text="opinion")
-    petitionlink = petition['href']
-    opinionlink = opinion['href']
-    
-    for row in proceedings_body.find_all("tr"):
-        proceedings = row.find_all("td")
-        content = proceedings[1].text.strip()
-    '''
-    content = proceedings_body.text.strip()
-    return result_scan(content)
-
-def scrape_any(link):
-=======
 def scrape_any(docket_number):
 
->>>>>>> a6224ed6b2988bad7b86264fbc1e6cbb356d937d
     time.sleep(0.3)
     r = requests.get(link)
     print(r)
