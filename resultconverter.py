@@ -7,11 +7,23 @@ data = pd.read_csv("data/data.csv")
 
 def data_cleaner(datafile):
     result_options = [r"AFFIRMED",r"REMANDED",r"VACATED",r"REVERSED",r"DISMISSED",r"DENIED"]
+    # remanded can be seperate column
+    # 0 AFFIRMED
+    # 1 should be reversed/ vacated
+    # 2 should be anything else
+    # 3 is DENIED
+    # remanded column is 0 = "is remanded", 1 = "not remanded", 2 = "IN PART"
+    # result_options = [r"AFFIRMED",r"REVERSED"]
     part_options = r" IN PART"
     date_options = r"(0[5-9]|1[0-9]|2[0-1])-[0-9]{2,4}"
     output_results = ""
-    result_list = []
-    partial_list = []
+    
+    #column lists
+    result_column = []
+    remanded_column = []
+    result_text_column = []
+
+
     listOfIndexs = []
 
     startOfIndex = 0
@@ -19,23 +31,34 @@ def data_cleaner(datafile):
     memo = {}
     for index, row in islice(datafile.iterrows(), startOfIndex, None):
         
-        output_string = ""
+        result_output = 2
+        remanded_output = 0
         #partial_output_string = ""
-        for r_i in range(0,len(result_options)):
-            expression = result_options[r_i]
-            matches = re.search(expression,str(row["result"])) is not None
-            date_matches = re.search(date_options,str(row["docket_number"]))
-            if matches:
-                if re.search(expression + part_options, str(row["result"])) is not None:
-                    output_string += str(6+r_i) + " "
-                else:
-                    output_string += str(r_i) + " "
-        if len(output_string.split()) > 1:    
-            try:
-                output_string = str(memo[output_string])
-            except KeyError:
-                enumeration += 1
-                memo[output_string] = str(enumeration)
+        #for r_i in range(0,len(result_options)):
+            #expression = result_options[r_i]
+        result_text_column.append(str(row["result"]))
+        aff_matches = re.search(r"AFFIRMED(?! IN PART)",str(row["result"])) is not None
+        rev_matches = re.search(r"(REVERSED(?! IN PART)|VACATED(?! IN PART))",str(row["result"])) is not None
+        rem_matches = re.search(r"(REMANDED(?! IN PART))",str(row["result"])) is not None
+        rem_part_matches = re.search(r"(REMANDED IN PART)",str(row["result"])) is not None
+        den_matches = re.search(r"DENIED(?! IN PART)",str(row["result"])) is not None
+        date_matches = re.search(date_options,str(row["docket_number"]))
+        
+        if aff_matches and not rev_matches:
+            result_output = 0
+        elif rev_matches and not aff_matches:
+            result_output = 1
+        elif den_matches:
+            result_output = 3
+        
+        if rem_matches:
+            remanded_output = 1
+        elif rem_part_matches:
+            remanded_output = 2
+        result_column.append(result_output)
+        remanded_column.append(remanded_output)
+
+                
                     
                     
                     
@@ -43,13 +66,11 @@ def data_cleaner(datafile):
             listOfIndexs.append(index)
 
         #partial_list.append(partial_output_string)
-        result_list.append(output_string)
-        
+    data["remanded"] = remanded_column
+    data["result text"] = result_text_column
+    data["result"] = result_column
     
-    data["result_int"] = result_list
-    for k,v in memo.items():
-        print("result_int "+str(v)+" means "+str(k))
-    #data["partial_result"] = partial_list 
+    
     data1 = data.drop(data.index[listOfIndexs])
     data1.to_csv("data_clean.csv",index=False)
 
